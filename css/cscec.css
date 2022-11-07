@@ -1,0 +1,206 @@
+.stiDesignerToolBar {
+    background-color: #0081cc;
+}
+
+.stiDesignerToolButton_Mouse {
+    background-color: #0081cc;
+}
+
+.stiDesignerStatusPanel {
+    background-color: #0081cc;
+}
+
+html,
+body {
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    background-color: #e8e8e8;
+    overflow: hidden;
+}
+p {
+    margin: 0;
+}
+.model {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 999999;
+    display: none;
+}
+.model .savainfo {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin: -115px 0 0 -143px;
+    background-color: #FFFFFF;
+    border: 1px solid #19478a;
+    color: #444444;
+    display: none;
+}
+.model .savainfo .close {
+    height: 30px;
+    line-height: 30px;
+    border-bottom: 1px dotted #c6c6c6;
+}
+.model .savainfo .close i {
+    float: right;
+    font-style: normal;
+    width: 30px;
+    text-align: center;
+    color: #666666;
+    cursor: pointer;
+}
+.model .savainfo .close i:hover {
+    color: #000000;
+}
+.model .savainfo .form {
+    padding: 20px;
+}
+.model .savainfo .line {
+    height: 34px;
+    line-height: 34px;
+}
+.model .savainfo .line .mandatory {
+    float: left;
+    width: 10px;
+    color: red;
+}
+.model .savainfo .line span {
+    float: left;
+    width: 50px;
+}
+.model .savainfo .line input {
+    float: left;
+    padding: 0 5px;
+    height: 30px;
+    line-height: 30px;
+    width: 180px;
+}
+.model .savainfo .error {
+    color: #FF0000;
+    font-size: 12px;
+    line-height: 30px;
+    height: 30px;
+    padding-left: 50px;
+    visibility: hidden;
+}
+.model .btn {
+    height: 28px;
+}
+.model .btn span {
+    display: inline-block;
+    width: 50%;
+    float: left;
+    text-align: center;
+    height: 100%;
+}
+.model .btn i {
+    display: inline-block;
+    font-style: normal;
+    cursor: pointer;
+    width: 80px;
+    border: 1px solid #ababab;
+    font-size: 12px;
+    height: 26px;
+    line-height: 26px;
+}
+.model .btn span i:hover {
+    background-color: #d5e1f2;
+    border: 1px solid #a3dbe3;
+}
+/* 提示信息弹窗 */
+.tips {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    background-color: #FFFFFF;
+    border: 1px solid #19478a;
+    color: #444444;
+    width: 442px;
+    margin: -65px 0 0 -222px;
+    display: none;
+}
+.model .title {
+    line-height: 28px;
+    text-align: center;
+    position: relative;
+}
+.model .title span {
+    display: inline-block;
+    width: 100%;
+    font-size: 13px;
+    color: #19478a;
+    font-weight: 700;
+}
+.model .title i {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 28px;
+    width: 28px;
+    cursor: pointer;
+}
+.model .title i:hover {
+    background-color: #d5e1f2;
+}
+.tips .content {
+    padding: 10px 20px;
+    line-height: 28px;
+    font-size: 12px;
+    min-height: 28px;
+}
+.tips .btn {
+    border-top: 1px dotted #c6c6c6;
+    padding: 8px;
+    height: 25px;
+}
+.tips .btn span {
+    float: right;
+    width: 80px;
+    height: 23px;
+    line-height: 23px;
+    font-size: 12px;
+    border: 1px solid #ababab;
+    text-align: center;
+    cursor: pointer;
+}
+.tips .btn span:hover {
+    background-color: #d5e1f2;
+    border: 1px solid #a3dbe3;
+}
+/* 加载元数据弹窗 */
+.loadDictionary {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    background-color: #FFFFFF;
+    border: 1px solid #19478a;
+    color: #444444;
+    width: 500px;
+    margin: -65px 0 0 -251px;
+    padding-bottom: 10px;
+    display: none;
+}
+.loadDictionary .url {
+    border-top: 1px dotted #c6c6c6;
+    border-bottom: 1px dotted #c6c6c6;
+    padding: 10px 20px;
+    height: 28px;
+    line-height: 28px;
+    font-size: 12px;
+}
+.loadDictionary .url p {
+    float: left;
+}
+.loadDictionary .url input {
+    float: left;
+    height: 22px;
+    padding: 1px 5px;
+    width: 350px;
+}
+.loadDictionary .btn {
+    padding-top: 10px;
+}
