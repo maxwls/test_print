@@ -39,7 +39,7 @@
         if (r != null) return decodeURI(r[2]);
         return null; //返回参数值
       }
-      var lang = getUrlParam("lang") == null ? "zh_CN" : getUrlParam("lang");
+      var lang = getUrlParam("lang") == null ? "en_US" : getUrlParam("lang");
       Stimulsoft.Base.Localization.StiLocalization.addLocalizationFile(
         "./Localization/" + lang + ".xml",
         false,

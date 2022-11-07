@@ -1,0 +1,5992 @@
+{
+  "ReportGuid": "03793ffe43788c94286736c6e6f8c92c",
+  "ReportName": "Report",
+  "ReportAlias": "Report",
+  "ReportFile": "BX_CLBX2.mrt",
+  "ReportCreated": "/Date(1565001479000+0800)/",
+  "ReportChanged": "/Date(1667549465000+0800)/",
+  "EngineVersion": "EngineV2",
+  "CalculationMode": "Interpretation",
+  "ReportUnit": "Centimeters",
+  "PreviewSettings": 268435455,
+  "Dictionary": {
+    "DataSources": {
+      "0": {
+        "Ident": "StiDataTableSource",
+        "Name": "CSBXCBSX",
+        "Alias": "超标准事项",
+        "Columns": {
+          "0": {
+            "Name": "CSBXCBSX_F_GUID",
+            "Index": -1,
+            "NameInSource": "CSBXCBSX_F_GUID",
+            "Alias": "F_GUID",
+            "Type": "System.String"
+          },
+          "1": {
+            "Name": "CSBXCBSX_F_UNITID",
+            "Index": -1,
+            "NameInSource": "CSBXCBSX_F_UNITID",
+            "Alias": "F_UNITID",
+            "Type": "System.String"
+          },
+          "2": {
+            "Name": "CSBXCBSX_F_ZZJG",
+            "Index": -1,
+            "NameInSource": "CSBXCBSX_F_ZZJG",
+            "Alias": "F_ZZJG",
+            "Type": "System.String"
+          },
+          "3": {
+            "Name": "CSBXCBSX_F_BKBH",
+            "Index": -1,
+            "NameInSource": "CSBXCBSX_F_BKBH",
+            "Alias": "F_BKBH",
+            "Type": "System.String"
+          },
+          "4": {
+            "Name": "CSBXCBSX_F_BMBH",
+            "Index": -1,
+            "NameInSource": "CSBXCBSX_F_BMBH",
+            "Alias": "F_BMBH",
+            "Type": "System.String"
+          },
+          "5": {
+            "Name": "CSBXCBSX_F_XMBH",
+            "Index": -1,
+            "NameInSource": "CSBXCBSX_F_XMBH",
+            "Alias": "F_XMBH",
+            "Type": "System.String"
+          },
+          "6": {
+            "Name": "CSBXCBSX_F_DATE",
+            "Index": -1,
+            "NameInSource": "CSBXCBSX_F_DATE",
+            "Alias": "F_DATE",
+            "Type": "System.String"
+          },
+          "7": {
+            "Name": "CSBXCBSX_F_YWLX",
+            "Index": -1,
+            "NameInSource": "CSBXCBSX_F_YWLX",
+            "Alias": "F_YWLX",
+            "Type": "System.String"
+          },
+          "8": {
+            "Name": "CSBXCBSX_F_DJLX",
+            "Index": -1,
+            "NameInSource": "CSBXCBSX_F_DJLX",
+            "Alias": "F_DJLX",
+            "Type": "System.String"
+          },
+          "9": {
+            "Name": "CSBXCBSX_F_DJBH",
+            "Index": -1,
+            "NameInSource": "CSBXCBSX_F_DJBH",
+            "Alias": "F_DJBH",
+            "Type": "System.String"
+          },
+          "10": {
+            "Name": "CSBXCBSX_F_FLBH",
+            "Index": -1,
+            "NameInSource": "CSBXCBSX_F_FLBH",
+            "Alias": "F_FLBH",
+            "Type": "System.String"
+          },
+          "11": {
+            "Name": "CSZGZD_F_ZGBH",
+            "Index": -1,
+            "NameInSource": "CSZGZD_F_ZGBH",
+            "Alias": "F_ZGBH",
+            "Type": "System.String"
+          },
+          "12": {
+            "Name": "CSBXCBSX_F_YWBMBH",
+            "Index": -1,
+            "NameInSource": "CSBXCBSX_F_YWBMBH",
+            "Alias": "F_YWBMBH",
+            "Type": "System.String"
+          },
+          "13": {
+            "Name": "CSBXCBSX_F_YWXMBH",
+            "Index": -1,
+            "NameInSource": "CSBXCBSX_F_YWXMBH",
+            "Alias": "F_YWXMBH",
+            "Type": "System.String"
+          },
+          "14": {
+            "Name": "CSBXCBSX_F_FHSJ",
+            "Index": -1,
+            "NameInSource": "CSBXCBSX_F_FHSJ",
+            "Alias": "F_FHSJ",
+            "Type": "System.String"
+          },
+          "15": {
+            "Name": "CSBXCBSX_F_PMJE",
+            "Index": -1,
+            "NameInSource": "CSBXCBSX_F_PMJE",
+            "Alias": "F_PMJE",
+            "Type": "System.Int32"
+          },
+          "16": {
+            "Name": "CSBXCBSX_F_CHDATE",
+            "Index": -1,
+            "NameInSource": "CSBXCBSX_F_CHDATE",
+            "Alias": "修改时间",
+            "Type": "System.DateTime"
+          },
+          "17": {
+            "Name": "CSBXCBSX_F_NOTE",
+            "Index": -1,
+            "NameInSource": "CSBXCBSX_F_NOTE",
+            "Alias": "F_NOTE",
+            "Type": "System.String"
+          },
+          "18": {
+            "Name": "CSBXCBSX_F_YWZZJG",
+            "Index": -1,
+            "NameInSource": "CSBXCBSX_F_YWZZJG",
+            "Alias": "人员组织机构",
+            "Type": "System.String"
+          },
+          "19": {
+            "Name": "CSBXCBSX_F_CBJE",
+            "Index": -1,
+            "NameInSource": "CSBXCBSX_F_CBJE",
+            "Alias": "超标金额",
+            "Type": "System.Int32"
+          },
+          "20": {
+            "Name": "CSBXCBSX_F_CRDATE",
+            "Index": -1,
+            "NameInSource": "CSBXCBSX_F_CRDATE",
+            "Alias": "创建时间",
+            "Type": "System.DateTime"
+          },
+          "21": {
+            "Name": "CSBXCBSX_F_TYPE",
+            "Index": -1,
+            "NameInSource": "CSBXCBSX_F_TYPE",
+            "Alias": "超标类型",
+            "Type": "System.String"
+          }
+        },
+        "NameInSource": "database.CSBXCBSX"
+      },
+      "1": {
+        "Ident": "StiDataTableSource",
+        "Name": "CSTYSKZH",
+        "Alias": "通用收款方信息",
+        "Columns": {
+          "0": {
+            "Name": "CSTYSKZH_F_GUID",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_GUID",
+            "Alias": "唯一标识",
+            "Type": "System.String"
+          },
+          "1": {
+            "Name": "CSTYSKZH_F_UNITID",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_UNITID",
+            "Alias": "账套编号",
+            "Type": "System.String"
+          },
+          "2": {
+            "Name": "CSZZJG_F_ZZJG",
+            "Index": -1,
+            "NameInSource": "CSZZJG_F_ZZJG",
+            "Alias": "申请组织机构",
+            "Type": "System.String"
+          },
+          "3": {
+            "Name": "CSTYSKZH_F_MDMGSBM",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_MDMGSBM",
+            "Alias": "MDM公司编码",
+            "Type": "System.String"
+          },
+          "4": {
+            "Name": "CSBMZD_F_BMBH",
+            "Index": -1,
+            "NameInSource": "CSBMZD_F_BMBH",
+            "Alias": "部门编号",
+            "Type": "System.String"
+          },
+          "5": {
+            "Name": "CSXMZD_F_XMBH",
+            "Index": -1,
+            "NameInSource": "CSXMZD_F_XMBH",
+            "Alias": "项目编号",
+            "Type": "System.String"
+          },
+          "6": {
+            "Name": "CSTYSKZH_F_XMMC",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_XMMC",
+            "Alias": "项目名称",
+            "Type": "System.String"
+          },
+          "7": {
+            "Name": "CSTYSKZH_F_DATE",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_DATE",
+            "Alias": "制单日期",
+            "Type": "System.String"
+          },
+          "8": {
+            "Name": "CSTYSKZH_F_YWLX",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_YWLX",
+            "Alias": "业务类型",
+            "Type": "System.String"
+          },
+          "9": {
+            "Name": "CSDJLX_F_DJLX",
+            "Index": -1,
+            "NameInSource": "CSDJLX_F_DJLX",
+            "Alias": "单据类型",
+            "Type": "System.String"
+          },
+          "10": {
+            "Name": "CSTYSKZH_F_DJBH",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_DJBH",
+            "Alias": "单据编号",
+            "Type": "System.String"
+          },
+          "11": {
+            "Name": "CSTYSKZH_F_FLBH",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_FLBH",
+            "Alias": "分录编号",
+            "Type": "System.String"
+          },
+          "12": {
+            "Name": "CSTYSKZH_F_JFKMBH",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_JFKMBH",
+            "Alias": "借方科目编号",
+            "Type": "System.String"
+          },
+          "13": {
+            "Name": "CSTYSKZH_F_DQRQ",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_DQRQ",
+            "Alias": "到期日",
+            "Type": "System.String"
+          },
+          "14": {
+            "Name": "CSTYSKZH_F_HTBH",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_HTBH",
+            "Alias": "合同编号",
+            "Type": "System.String"
+          },
+          "15": {
+            "Name": "CSTYSKZH_F_HTMC",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_HTMC",
+            "Alias": "合同名称",
+            "Type": "System.String"
+          },
+          "16": {
+            "Name": "CSTYSKZH_F_SQZJDW",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_SQZJDW",
+            "Alias": "申请资金单位(资金系统)",
+            "Type": "System.String"
+          },
+          "17": {
+            "Name": "CSTYSKZH_F_SQZJDWMC",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_SQZJDWMC",
+            "Alias": "申请资金单位名称(资金系统)",
+            "Type": "System.String"
+          },
+          "18": {
+            "Name": "CSTYSKZH_F_DFZT",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_DFZT",
+            "Alias": "待支付状态",
+            "Type": "System.String"
+          },
+          "19": {
+            "Name": "CSTYSKZH_F_DFMESS",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_DFMESS",
+            "Alias": "发送支付返回信息",
+            "Type": "System.String"
+          },
+          "20": {
+            "Name": "CSTYSKZH_F_SKTYPE",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_SKTYPE",
+            "Alias": "对公对私",
+            "Type": "System.String"
+          },
+          "21": {
+            "Name": "CSTYSKZH_F_FKSD",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_FKSD",
+            "Alias": "付款速度",
+            "Type": "System.String"
+          },
+          "22": {
+            "Name": "CSZFFS_F_ZFFS",
+            "Index": -1,
+            "NameInSource": "CSZFFS_F_ZFFS",
+            "Alias": "支付方式",
+            "Type": "System.String"
+          },
+          "23": {
+            "Name": "CSTYSKZH_F_ZFFSMC",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_ZFFSMC",
+            "Alias": "支付方式名称",
+            "Type": "System.String"
+          },
+          "24": {
+            "Name": "CSTYSKZH_F_ZFBZ",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_ZFBZ",
+            "Alias": "支付币种",
+            "Type": "System.String"
+          },
+          "25": {
+            "Name": "CSTYSKZH_F_ZFHL",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_ZFHL",
+            "Alias": "支付汇率",
+            "Type": "System.Int32"
+          },
+          "26": {
+            "Name": "CSZZJG_F_FKZZJG",
+            "Index": -1,
+            "NameInSource": "CSZZJG_F_FKZZJG",
+            "Alias": "付款机构编号(实际支付)",
+            "Type": "System.String"
+          },
+          "27": {
+            "Name": "CSTYSKZH_F_FKZZJGMC",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_FKZZJGMC",
+            "Alias": "付款机构名称(实际支付)",
+            "Type": "System.String"
+          },
+          "28": {
+            "Name": "CSTYSKZH_F_FKMDMGS",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_FKMDMGS",
+            "Alias": "付款MDM公司编码(实际支付)",
+            "Type": "System.String"
+          },
+          "29": {
+            "Name": "CSBMZD_F_FKZJDW",
+            "Index": -1,
+            "NameInSource": "CSBMZD_F_FKZJDW",
+            "Alias": "付款资金单位编号(资金系统)",
+            "Type": "System.String"
+          },
+          "30": {
+            "Name": "CSTYSKZH_F_FKZJDWMC",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_FKZJDWMC",
+            "Alias": "实际支付资金单位名称",
+            "Type": "System.String"
+          },
+          "31": {
+            "Name": "CSTYSKZH_F_FKZH",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_FKZH",
+            "Alias": "默认付款账户",
+            "Type": "System.String"
+          },
+          "32": {
+            "Name": "CSTYSKZH_F_FKZHMC",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_FKZHMC",
+            "Alias": "默认支付账户名称",
+            "Type": "System.String"
+          },
+          "33": {
+            "Name": "CSTYSKZH_F_FKKHJG",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_FKKHJG",
+            "Alias": "付款账号开户机构",
+            "Type": "System.String"
+          },
+          "34": {
+            "Name": "CSTYSKZH_F_FKKHJGMC",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_FKKHJGMC",
+            "Alias": "付款账号开户机构名称",
+            "Type": "System.String"
+          },
+          "35": {
+            "Name": "CSTYSKZH_F_FKLHH",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_FKLHH",
+            "Alias": "付款账号联行号",
+            "Type": "System.String"
+          },
+          "36": {
+            "Name": "CSTYSKZH_F_FKJHXM",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_FKJHXM",
+            "Alias": "付款计划项目",
+            "Type": "System.String"
+          },
+          "37": {
+            "Name": "CSTYSKZH_F_ZJJHZF",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_ZJJHZF",
+            "Alias": "资金计划收付款方式",
+            "Type": "System.String"
+          },
+          "38": {
+            "Name": "CSTYSKZH_F_XJBH",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_XJBH",
+            "Alias": "现金流量",
+            "Type": "System.String"
+          },
+          "39": {
+            "Name": "CSTYSKZH_F_FKSY",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_FKSY",
+            "Alias": "支付事由(抬头事由)",
+            "Type": "System.String"
+          },
+          "40": {
+            "Name": "CSTYSKZH_F_FKZY",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_FKZY",
+            "Alias": "付款摘要",
+            "Type": "System.String"
+          },
+          "41": {
+            "Name": "CSTYSKZH_F_SKDWBH",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_SKDWBH",
+            "Alias": "收款客商编号(或职工)",
+            "Type": "System.String"
+          },
+          "42": {
+            "Name": "CSTYSKZH_F_SKDWMC",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_SKDWMC",
+            "Alias": "收款客商名称(或职工)",
+            "Type": "System.String"
+          },
+          "43": {
+            "Name": "CSTYSKZH_F_SKZH",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_SKZH",
+            "Alias": "收款账户编号",
+            "Type": "System.String"
+          },
+          "44": {
+            "Name": "CSTYSKZH_F_SKZHMC",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_SKZHMC",
+            "Alias": "收款账户名称",
+            "Type": "System.String"
+          },
+          "45": {
+            "Name": "CSTYSKZH_F_SKYH",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_SKYH",
+            "Alias": "收款银行编号",
+            "Type": "System.String"
+          },
+          "46": {
+            "Name": "CSTYSKZH_F_SKYHMC",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_SKYHMC",
+            "Alias": "收款银行名称",
+            "Type": "System.String"
+          },
+          "47": {
+            "Name": "ZJ_KHJG_F_SKKHHHH",
+            "Index": -1,
+            "NameInSource": "ZJ_KHJG_F_SKKHHHH",
+            "Alias": "收款账户联行行号",
+            "Type": "System.String"
+          },
+          "48": {
+            "Name": "CSTYSKZH_F_SKKHHHHMC",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_SKKHHHHMC",
+            "Alias": "收款账户联行名称",
+            "Type": "System.String"
+          },
+          "49": {
+            "Name": "CSTYSKZH_F_SKLHH",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_SKLHH",
+            "Alias": "收款账户联行号",
+            "Type": "System.String"
+          },
+          "50": {
+            "Name": "CSTYSKZH_F_SKKHHSZD",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_SKKHHSZD",
+            "Alias": "开户行所在地",
+            "Type": "System.String"
+          },
+          "51": {
+            "Name": "CSTYSKZH_F_SKJE",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_SKJE",
+            "Alias": "收款金额（申请支付金额）",
+            "Type": "System.Int32"
+          },
+          "52": {
+            "Name": "CSTYSKZH_F_ZFZT",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_ZFZT",
+            "Alias": "资金实际支付状态",
+            "Type": "System.String"
+          },
+          "53": {
+            "Name": "CSTYSKZH_F_ZFMESS",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_ZFMESS",
+            "Alias": "资金支付返回信息",
+            "Type": "System.String"
+          },
+          "54": {
+            "Name": "CSTYSKZH_F_CHDATE",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_CHDATE",
+            "Alias": "修改时间",
+            "Type": "System.DateTime"
+          },
+          "55": {
+            "Name": "CSTYSKZH_F_CRDATE",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_CRDATE",
+            "Alias": "创建时间",
+            "Type": "System.DateTime"
+          },
+          "56": {
+            "Name": "CSTYSKZH_F_NOTE",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_NOTE",
+            "Alias": "备注",
+            "Type": "System.String"
+          },
+          "57": {
+            "Name": "CSTYSKZH_F_MENUID",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_MENUID",
+            "Alias": "菜单ID",
+            "Type": "System.String"
+          },
+          "58": {
+            "Name": "CSTYSKZH_F_FORMID",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_FORMID",
+            "Alias": "表单ID",
+            "Type": "System.String"
+          },
+          "59": {
+            "Name": "CSTYSKZH_F_TABTT",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_TABTT",
+            "Alias": "单据名称",
+            "Type": "System.String"
+          },
+          "60": {
+            "Name": "CSTYSKZH_F_BCSQZF",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_BCSQZF",
+            "Alias": "本次申请支付金额",
+            "Type": "System.Int32"
+          },
+          "61": {
+            "Name": "CSTYSKZH_BUKRS",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_BUKRS",
+            "Alias": "本方公司代码",
+            "Type": "System.String"
+          },
+          "62": {
+            "Name": "CSTYSKZH_PRCTR",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_PRCTR",
+            "Alias": "本方利润中心",
+            "Type": "System.String"
+          },
+          "63": {
+            "Name": "CSTYSKZH_F_SFNBZH",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_SFNBZH",
+            "Alias": "收款账户是否同一法人下账户",
+            "Type": "System.String"
+          },
+          "64": {
+            "Name": "CSTYSKZH_F_SFDF",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_SFDF",
+            "Alias": "是否代付",
+            "Type": "System.String"
+          },
+          "65": {
+            "Name": "CSTYSKZH_F_DFBUKRS",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_DFBUKRS",
+            "Alias": "代付公司代码",
+            "Type": "System.String"
+          },
+          "66": {
+            "Name": "CSTYSKZH_F_DFPRCTR",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_DFPRCTR",
+            "Alias": "代付方利润中心",
+            "Type": "System.String"
+          },
+          "67": {
+            "Name": "CSXMZD_F_DFXMBH",
+            "Index": -1,
+            "NameInSource": "CSXMZD_F_DFXMBH",
+            "Alias": "代付项目编号",
+            "Type": "System.String"
+          },
+          "68": {
+            "Name": "CSTYSKZH_F_ZJJHJE",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_ZJJHJE",
+            "Alias": "资金计划金额",
+            "Type": "System.Int32"
+          },
+          "69": {
+            "Name": "CSTYSKZH_F_SFCFZF",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_SFCFZF",
+            "Alias": "是否可拆分支付",
+            "Type": "System.String"
+          },
+          "70": {
+            "Name": "CSTYSKZH_F_DJRQ",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_DJRQ",
+            "Alias": "单据日期",
+            "Type": "System.String"
+          },
+          "71": {
+            "Name": "CSXMZD_F_SKXMBH",
+            "Index": -1,
+            "NameInSource": "CSXMZD_F_SKXMBH",
+            "Alias": "收款项目编号",
+            "Type": "System.String"
+          },
+          "72": {
+            "Name": "CSTYSKZH_F_BBPRCTR",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_BBPRCTR",
+            "Alias": "本部利润中心",
+            "Type": "System.String"
+          },
+          "73": {
+            "Name": "CSTYSKZH_F_BBXMBH",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_BBXMBH",
+            "Alias": "本部项目编号",
+            "Type": "System.String"
+          },
+          "74": {
+            "Name": "CSTYSKZH_F_ZJZY",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_ZJZY",
+            "Alias": "资金占用状态",
+            "Type": "System.String"
+          },
+          "75": {
+            "Name": "CSTYSKZH_F_SFQZHZ",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_SFQZHZ",
+            "Alias": "是否强制划转",
+            "Type": "System.String"
+          },
+          "76": {
+            "Name": "CSTYSKZH_F_BWB",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_BWB",
+            "Alias": "结算币种",
+            "Type": "System.String"
+          },
+          "77": {
+            "Name": "CSTYSKZH_F_ZFBZJE",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_ZFBZJE",
+            "Alias": "支付币种金额",
+            "Type": "System.Int32"
+          },
+          "78": {
+            "Name": "CSTYSKZH_F_TJRBH",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_TJRBH",
+            "Alias": "提交支付人编号",
+            "Type": "System.String"
+          },
+          "79": {
+            "Name": "CSTYSKZH_F_TJRMC",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_TJRMC",
+            "Alias": "提交支付人姓名",
+            "Type": "System.String"
+          },
+          "80": {
+            "Name": "CSTYSKZH_F_TJTIME",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_TJTIME",
+            "Alias": "提交支付时间",
+            "Type": "System.String"
+          },
+          "81": {
+            "Name": "CSTYSKZH_F_SERVERID",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_SERVERID",
+            "Alias": "跨域id",
+            "Type": "System.String"
+          },
+          "82": {
+            "Name": "CSNBQSLXZD_F_NBQSLX",
+            "Index": -1,
+            "NameInSource": "CSNBQSLXZD_F_NBQSLX",
+            "Alias": "内部清算类型",
+            "Type": "System.String"
+          },
+          "83": {
+            "Name": "CSTYSKZH_F_SFBDNH",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_SFBDNH",
+            "Alias": "是否变动内行",
+            "Type": "System.String"
+          },
+          "84": {
+            "Name": "CSTYSKZH_F_BWBZFJE",
+            "Index": -1,
+            "NameInSource": "CSTYSKZH_F_BWBZFJE",
+            "Alias": "本位币支付金额",
+            "Type": "System.Int32"
+          }
+        },
+        "NameInSource": "database.CSTYSKZH"
+      },
+      "2": {
+        "Ident": "StiDataTableSource",
+        "Name": "CSBXFYFT",
+        "Alias": "分摊事项",
+        "Columns": {
+          "0": {
+            "Name": "CSBXFYFT_F_GUID",
+            "Index": -1,
+            "NameInSource": "CSBXFYFT_F_GUID",
+            "Alias": "唯一标识",
+            "Type": "System.String"
+          },
+          "1": {
+            "Name": "CSBXFYFT_F_UNITID",
+            "Index": -1,
+            "NameInSource": "CSBXFYFT_F_UNITID",
+            "Alias": "账套编号",
+            "Type": "System.String"
+          },
+          "2": {
+            "Name": "CSBXFYFT_F_ZZJG",
+            "Index": -1,
+            "NameInSource": "CSBXFYFT_F_ZZJG",
+            "Alias": "组织机构",
+            "Type": "System.String"
+          },
+          "3": {
+            "Name": "CSBXFYFT_F_BKBH",
+            "Index": -1,
+            "NameInSource": "CSBXFYFT_F_BKBH",
+            "Alias": "板块编号",
+            "Type": "System.String"
+          },
+          "4": {
+            "Name": "CSBXFYFT_F_BMBH",
+            "Index": -1,
+            "NameInSource": "CSBXFYFT_F_BMBH",
+            "Alias": "部门编号",
+            "Type": "System.String"
+          },
+          "5": {
+            "Name": "CSBXFYFT_F_XMBH",
+            "Index": -1,
+            "NameInSource": "CSBXFYFT_F_XMBH",
+            "Alias": "项目编号",
+            "Type": "System.String"
+          },
+          "6": {
+            "Name": "CSBXFYFT_F_DATE",
+            "Index": -1,
+            "NameInSource": "CSBXFYFT_F_DATE",
+            "Alias": "制单日期",
+            "Type": "System.String"
+          },
+          "7": {
+            "Name": "CSBXFYFT_F_YWLX",
+            "Index": -1,
+            "NameInSource": "CSBXFYFT_F_YWLX",
+            "Alias": "业务类型",
+            "Type": "System.String"
+          },
+          "8": {
+            "Name": "CSBXFYFT_F_DJLX",
+            "Index": -1,
+            "NameInSource": "CSBXFYFT_F_DJLX",
+            "Alias": "单据类型",
+            "Type": "System.String"
+          },
+          "9": {
+            "Name": "CSBXFYFT_F_DJBH",
+            "Index": -1,
+            "NameInSource": "CSBXFYFT_F_DJBH",
+            "Alias": "单据编号",
+            "Type": "System.String"
+          },
+          "10": {
+            "Name": "CSBXFYFT_F_FLBH",
+            "Index": -1,
+            "NameInSource": "CSBXFYFT_F_FLBH",
+            "Alias": "分录编号",
+            "Type": "System.String"
+          },
+          "11": {
+            "Name": "BSUSER_F_FTSX",
+            "Index": -1,
+            "NameInSource": "BSUSER_F_FTSX",
+            "Alias": "事项",
+            "Type": "System.String"
+          },
+          "12": {
+            "Name": "CSBXFYFT_F_FTJE",
+            "Index": -1,
+            "NameInSource": "CSBXFYFT_F_FTJE",
+            "Alias": "分摊销总金额",
+            "Type": "System.Int32"
+          },
+          "13": {
+            "Name": "CSBXFYFT_F_YWZZJG",
+            "Index": -1,
+            "NameInSource": "CSBXFYFT_F_YWZZJG",
+            "Alias": "承担机构",
+            "Type": "System.String"
+          },
+          "14": {
+            "Name": "CSBMZD_F_YWBMBH",
+            "Index": -1,
+            "NameInSource": "CSBMZD_F_YWBMBH",
+            "Alias": "承担部门",
+            "Type": "System.String"
+          },
+          "15": {
+            "Name": "CSXMZD_F_YWXMBH",
+            "Index": -1,
+            "NameInSource": "CSXMZD_F_YWXMBH",
+            "Alias": "承担项目",
+            "Type": "System.String"
+          },
+          "16": {
+            "Name": "CSYWMXZD_F_BXSX",
+            "Index": -1,
+            "NameInSource": "CSYWMXZD_F_BXSX",
+            "Alias": "报销属性",
+            "Type": "System.String"
+          },
+          "17": {
+            "Name": "BSUSER_F_YSSX",
+            "Index": -1,
+            "NameInSource": "BSUSER_F_YSSX",
+            "Alias": "预算事项",
+            "Type": "System.String"
+          },
+          "18": {
+            "Name": "CSBXFYFT_F_YSYE",
+            "Index": -1,
+            "NameInSource": "CSBXFYFT_F_YSYE",
+            "Alias": "预算余额",
+            "Type": "System.Int32"
+          },
+          "19": {
+            "Name": "CSBXFYFT_F_CDJE",
+            "Index": -1,
+            "NameInSource": "CSBXFYFT_F_CDJE",
+            "Alias": "承担金额",
+            "Type": "System.Int32"
+          },
+          "20": {
+            "Name": "CSBXFYFT_F_CRDATE",
+            "Index": -1,
+            "NameInSource": "CSBXFYFT_F_CRDATE",
+            "Alias": "创建日期",
+            "Type": "System.DateTime"
+          },
+          "21": {
+            "Name": "CSBXFYFT_F_CHDATE",
+            "Index": -1,
+            "NameInSource": "CSBXFYFT_F_CHDATE",
+            "Alias": "修改日期",
+            "Type": "System.DateTime"
+          },
+          "22": {
+            "Name": "CSBXFYFT_F_NOTE",
+            "Index": -1,
+            "NameInSource": "CSBXFYFT_F_NOTE",
+            "Alias": "备注",
+            "Type": "System.String"
+          },
+          "23": {
+            "Name": "CsUsuallyCatalog_F_CGYSLB",
+            "Index": -1,
+            "NameInSource": "CsUsuallyCatalog_F_CGYSLB",
+            "Alias": "常规预算类别",
+            "Type": "System.String"
+          },
+          "24": {
+            "Name": "CsUsuallyItem_F_CGYSSX",
+            "Index": -1,
+            "NameInSource": "CsUsuallyItem_F_CGYSSX",
+            "Alias": "常规预算事项",
+            "Type": "System.String"
+          },
+          "25": {
+            "Name": "CsSpecialCatalog_F_ZXYSLB",
+            "Index": -1,
+            "NameInSource": "CsSpecialCatalog_F_ZXYSLB",
+            "Alias": "专项预算类别",
+            "Type": "System.String"
+          },
+          "26": {
+            "Name": "CsSpecialItem_F_ZXYSSX",
+            "Index": -1,
+            "NameInSource": "CsSpecialItem_F_ZXYSSX",
+            "Alias": "专项预算事项",
+            "Type": "System.String"
+          },
+          "27": {
+            "Name": "CsBudgetItem_F_YSXM",
+            "Index": -1,
+            "NameInSource": "CsBudgetItem_F_YSXM",
+            "Alias": "预算项目",
+            "Type": "System.String"
+          },
+          "28": {
+            "Name": "CSBXFYFT_F_YWMDMGSBM",
+            "Index": -1,
+            "NameInSource": "CSBXFYFT_F_YWMDMGSBM",
+            "Alias": "业务MDM公司编码",
+            "Type": "System.String"
+          },
+          "29": {
+            "Name": "CSYWMXZD_F_BXFYSX",
+            "Index": -1,
+            "NameInSource": "CSYWMXZD_F_BXFYSX",
+            "Alias": "报销费用事项",
+            "Type": "System.String"
+          },
+          "30": {
+            "Name": "CSBXFYFT_F_ZJJHXM",
+            "Index": -1,
+            "NameInSource": "CSBXFYFT_F_ZJJHXM",
+            "Alias": "资金计划项目",
+            "Type": "System.String"
+          },
+          "31": {
+            "Name": "CSBXFYFT_F_AQCCF",
+            "Index": -1,
+            "NameInSource": "CSBXFYFT_F_AQCCF",
+            "Alias": "安全成产费",
+            "Type": "System.Int32"
+          },
+          "32": {
+            "Name": "CSBXFYFT_F_KYKT",
+            "Index": -1,
+            "NameInSource": "CSBXFYFT_F_KYKT",
+            "Alias": "科研课题",
+            "Type": "System.String"
+          },
+          "33": {
+            "Name": "CSBXFYFT_F_AQCCYT",
+            "Index": -1,
+            "NameInSource": "CSBXFYFT_F_AQCCYT",
+            "Alias": "安全成产用途",
+            "Type": "System.String"
+          },
+          "34": {
+            "Name": "CSBXFYFT_F_KYKTYT",
+            "Index": -1,
+            "NameInSource": "CSBXFYFT_F_KYKTYT",
+            "Alias": "科研课题用途",
+            "Type": "System.String"
+          },
+          "35": {
+            "Name": "CSBXFYFT_F_KYJF",
+            "Index": -1,
+            "NameInSource": "CSBXFYFT_F_KYJF",
+            "Alias": "科研经费",
+            "Type": "System.Int32"
+          },
+          "36": {
+            "Name": "CSZCKPZD_F_ZCKP",
+            "Index": -1,
+            "NameInSource": "CSZCKPZD_F_ZCKP",
+            "Alias": "资产卡片",
+            "Type": "System.String"
+          },
+          "37": {
+            "Name": "CSBXFYFT_F_ZCZL",
+            "Index": -1,
+            "NameInSource": "CSBXFYFT_F_ZCZL",
+            "Alias": "资产种类",
+            "Type": "System.String"
+          },
+          "38": {
+            "Name": "CSBXFYFT_F_ZCLXBH",
+            "Index": -1,
+            "NameInSource": "CSBXFYFT_F_ZCLXBH",
+            "Alias": "资产类型编号",
+            "Type": "System.String"
+          },
+          "39": {
+            "Name": "CSBXFYFT_F_ZCLXMC",
+            "Index": -1,
+            "NameInSource": "CSBXFYFT_F_ZCLXMC",
+            "Alias": "资产类型名称",
+            "Type": "System.String"
+          },
+          "40": {
+            "Name": "CSSAPORDER_F_ORDER",
+            "Index": -1,
+            "NameInSource": "CSSAPORDER_F_ORDER",
+            "Alias": "ORDER",
+            "Type": "System.String"
+          },
+          "41": {
+            "Name": "CSBXFYFT_F_CDHSJE",
+            "Index": -1,
+            "NameInSource": "CSBXFYFT_F_CDHSJE",
+            "Alias": "承担含税金额",
+            "Type": "System.Int32"
+          },
+          "42": {
+            "Name": "CSBXFYFT_F_CDBHSJE",
+            "Index": -1,
+            "NameInSource": "CSBXFYFT_F_CDBHSJE",
+            "Alias": "承担不含税金额",
+            "Type": "System.Int32"
+          },
+          "43": {
+            "Name": "CSBXFYFT_F_YSHSJE",
+            "Index": -1,
+            "NameInSource": "CSBXFYFT_F_YSHSJE",
+            "Alias": "预算含税金额",
+            "Type": "System.Int32"
+          },
+          "44": {
+            "Name": "CSBXFYFT_F_YSBHSJE",
+            "Index": -1,
+            "NameInSource": "CSBXFYFT_F_YSBHSJE",
+            "Alias": "预算不含税金额",
+            "Type": "System.Int32"
+          }
+        },
+        "NameInSource": "database.CSBXFYFT"
+      },
+      "3": {
+        "Ident": "StiDataTableSource",
+        "Name": "CSBXZJHK",
+        "Alias": "还借款信息",
+        "Columns": {
+          "0": {
+            "Name": "CSBXZJHK_F_GUID",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_GUID",
+            "Alias": "唯一标识",
+            "Type": "System.String"
+          },
+          "1": {
+            "Name": "CSBXZJHK_F_UNITID",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_UNITID",
+            "Alias": "账套编号",
+            "Type": "System.String"
+          },
+          "2": {
+            "Name": "CSZZJG_F_ZZJG",
+            "Index": -1,
+            "NameInSource": "CSZZJG_F_ZZJG",
+            "Alias": "组织机构",
+            "Type": "System.String"
+          },
+          "3": {
+            "Name": "CSBXZJHK_F_MDMGSBM",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_MDMGSBM",
+            "Alias": "MDM公司编码",
+            "Type": "System.String"
+          },
+          "4": {
+            "Name": "CSBMZD_F_BMBH",
+            "Index": -1,
+            "NameInSource": "CSBMZD_F_BMBH",
+            "Alias": "业务部门",
+            "Type": "System.String"
+          },
+          "5": {
+            "Name": "CSXMZD_F_XMBH",
+            "Index": -1,
+            "NameInSource": "CSXMZD_F_XMBH",
+            "Alias": "项目编号",
+            "Type": "System.String"
+          },
+          "6": {
+            "Name": "CSBXZJHK_F_DATE",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_DATE",
+            "Alias": "制单日期",
+            "Type": "System.String"
+          },
+          "7": {
+            "Name": "CSYWLX_F_YWLX",
+            "Index": -1,
+            "NameInSource": "CSYWLX_F_YWLX",
+            "Alias": "业务类型",
+            "Type": "System.String"
+          },
+          "8": {
+            "Name": "CSDJLX_F_DJLX",
+            "Index": -1,
+            "NameInSource": "CSDJLX_F_DJLX",
+            "Alias": "单据类型",
+            "Type": "System.String"
+          },
+          "9": {
+            "Name": "CSBXZJHK_F_DJBH",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_DJBH",
+            "Alias": "单据编号",
+            "Type": "System.String"
+          },
+          "10": {
+            "Name": "CSBXZJHK_F_FLBH",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_FLBH",
+            "Alias": "分录编号",
+            "Type": "System.String"
+          },
+          "11": {
+            "Name": "CSBXZJHK_F_JKDJBH",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_JKDJBH",
+            "Alias": "借款单据编号",
+            "Type": "System.String"
+          },
+          "12": {
+            "Name": "CSBXZJHK_F_JKDID",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_JKDID",
+            "Alias": "借款单GUID",
+            "Type": "System.String"
+          },
+          "13": {
+            "Name": "CSBXZJHK_F_JKJE",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_JKJE",
+            "Alias": "借款金额",
+            "Type": "System.Int32"
+          },
+          "14": {
+            "Name": "CSBXZJHK_F_YHJE",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_YHJE",
+            "Alias": "已还金额",
+            "Type": "System.Int32"
+          },
+          "15": {
+            "Name": "CSBXZJHK_F_ZTJE",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_ZTJE",
+            "Alias": "在途金额",
+            "Type": "System.Int32"
+          },
+          "16": {
+            "Name": "CSBXZJHK_F_SYKCXJE",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_SYKCXJE",
+            "Alias": "剩余可冲销金额",
+            "Type": "System.Int32"
+          },
+          "17": {
+            "Name": "CSBXZJHK_F_JKLX",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_JKLX",
+            "Alias": "借款类型",
+            "Type": "System.String"
+          },
+          "18": {
+            "Name": "CSZGZD_F_ZGBH",
+            "Index": -1,
+            "NameInSource": "CSZGZD_F_ZGBH",
+            "Alias": "借款人",
+            "Type": "System.String"
+          },
+          "19": {
+            "Name": "CSBXZJHK_F_JK_ZZJG",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_JK_ZZJG",
+            "Alias": "借款人组织",
+            "Type": "System.String"
+          },
+          "20": {
+            "Name": "CSBXZJHK_F_JK_BMBH",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_JK_BMBH",
+            "Alias": "借款人部门",
+            "Type": "System.String"
+          },
+          "21": {
+            "Name": "CSBXZJHK_F_JK_XMBH",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_JK_XMBH",
+            "Alias": "借款人项目",
+            "Type": "System.String"
+          },
+          "22": {
+            "Name": "CSBXZJHK_F_DKYY",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_DKYY",
+            "Alias": "代扣原因",
+            "Type": "System.String"
+          },
+          "23": {
+            "Name": "CSBXKKFSZD_F_KKFS",
+            "Index": -1,
+            "NameInSource": "CSBXKKFSZD_F_KKFS",
+            "Alias": "扣款方式",
+            "Type": "System.String"
+          },
+          "24": {
+            "Name": "CSBXZJHK_F_SHBZJE",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_SHBZJE",
+            "Alias": "最低生活保障金额",
+            "Type": "System.Int32"
+          },
+          "25": {
+            "Name": "CSBXZJHK_F_DKJE",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_DKJE",
+            "Alias": "本次代扣金额",
+            "Type": "System.Int32"
+          },
+          "26": {
+            "Name": "CSBXZJHK_F_HKFS",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_HKFS",
+            "Alias": "还款方式",
+            "Type": "System.String"
+          },
+          "27": {
+            "Name": "CSBXZJHK_F_HKJE",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_HKJE",
+            "Alias": "还款金额",
+            "Type": "System.Int32"
+          },
+          "28": {
+            "Name": "CSBXZJHK_F_KMBH",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_KMBH",
+            "Alias": "核算科目",
+            "Type": "System.String"
+          },
+          "29": {
+            "Name": "CSBXZJHK_F_CHDATE",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_CHDATE",
+            "Alias": "修改时间",
+            "Type": "System.DateTime"
+          },
+          "30": {
+            "Name": "CSBXZJHK_F_CRDATE",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_CRDATE",
+            "Alias": "创建时间",
+            "Type": "System.DateTime"
+          },
+          "31": {
+            "Name": "CSBXZJHK_F_NOTE",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_NOTE",
+            "Alias": "备注",
+            "Type": "System.String"
+          },
+          "32": {
+            "Name": "CSBXZJHK_F_JKDUNITID",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_JKDUNITID",
+            "Alias": "借款单UNITID",
+            "Type": "System.String"
+          },
+          "33": {
+            "Name": "CSBXZJHK_F_JKDFLBH",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_JKDFLBH",
+            "Alias": "借款单分录号",
+            "Type": "System.String"
+          },
+          "34": {
+            "Name": "CSBXZJHK_F_JKDRQ",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_JKDRQ",
+            "Alias": "借款单借款日期",
+            "Type": "System.String"
+          },
+          "35": {
+            "Name": "CSBXZJHK_F_JKDSY",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_JKDSY",
+            "Alias": "借款单事由",
+            "Type": "System.String"
+          },
+          "36": {
+            "Name": "CSBXJKYTZD_F_JKDJKLX",
+            "Index": -1,
+            "NameInSource": "CSBXJKYTZD_F_JKDJKLX",
+            "Alias": "借款单借款类型",
+            "Type": "System.String"
+          },
+          "37": {
+            "Name": "CSBXZJHK_F_JKDMENUID",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_JKDMENUID",
+            "Alias": "借款单菜单ID",
+            "Type": "System.String"
+          },
+          "38": {
+            "Name": "CSBXZJHK_F_JKDFORMID",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_JKDFORMID",
+            "Alias": "借款单表单ID",
+            "Type": "System.String"
+          },
+          "39": {
+            "Name": "CSBXZJHK_F_JKDTABTT",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_JKDTABTT",
+            "Alias": "借款单单据头表名",
+            "Type": "System.String"
+          },
+          "40": {
+            "Name": "CSBXZJHK_F_QZHKSJ",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_QZHKSJ",
+            "Alias": "强制还款时间",
+            "Type": "System.String"
+          },
+          "41": {
+            "Name": "CSBXZJHK_F_LYDJBH",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_LYDJBH",
+            "Alias": "F_LYDJBH",
+            "Type": "System.String"
+          },
+          "42": {
+            "Name": "CSBXZJHK_F_LYGUID",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_LYGUID",
+            "Alias": "F_LYGUID",
+            "Type": "System.String"
+          },
+          "43": {
+            "Name": "CSBXZJHK_F_LYFLBH",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_LYFLBH",
+            "Alias": "F_LYFLBH",
+            "Type": "System.String"
+          },
+          "44": {
+            "Name": "CSBXZJHK_F_LYUNIT",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_LYUNIT",
+            "Alias": "F_LYUNIT",
+            "Type": "System.String"
+          },
+          "45": {
+            "Name": "CSBXZJHK_F_JE",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_JE",
+            "Alias": "F_JE",
+            "Type": "System.Int32"
+          },
+          "46": {
+            "Name": "CSBXZJHK_F_YJHKRQ",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_YJHKRQ",
+            "Alias": "预计还款日期",
+            "Type": "System.String"
+          },
+          "47": {
+            "Name": "CSBXZJHK_F_JZFX",
+            "Index": -1,
+            "NameInSource": "CSBXZJHK_F_JZFX",
+            "Alias": "记账方向",
+            "Type": "System.String"
+          }
+        },
+        "NameInSource": "database.CSBXZJHK"
+      },
+      "4": {
+        "Ident": "StiDataTableSource",
+        "Name": "CSBXJTFY",
+        "Alias": "交通费用",
+        "Columns": {
+          "0": {
+            "Name": "CSBXJTFY_F_GUID",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_GUID",
+            "Alias": "唯一标识",
+            "Type": "System.String"
+          },
+          "1": {
+            "Name": "CSBXJTFY_F_UNITID",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_UNITID",
+            "Alias": "账套编号",
+            "Type": "System.String"
+          },
+          "2": {
+            "Name": "CSBXJTFY_F_ZZJG",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_ZZJG",
+            "Alias": "组织机构",
+            "Type": "System.String"
+          },
+          "3": {
+            "Name": "CSBXJTFY_F_BKBH",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_BKBH",
+            "Alias": "板块编号",
+            "Type": "System.String"
+          },
+          "4": {
+            "Name": "CSBXJTFY_F_BMBH",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_BMBH",
+            "Alias": "部门编号",
+            "Type": "System.String"
+          },
+          "5": {
+            "Name": "CSBXJTFY_F_XMBH",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_XMBH",
+            "Alias": "项目编号",
+            "Type": "System.String"
+          },
+          "6": {
+            "Name": "CSBXJTFY_F_DATE",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_DATE",
+            "Alias": "制单日期",
+            "Type": "System.String"
+          },
+          "7": {
+            "Name": "CSBXJTFY_F_YWLX",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_YWLX",
+            "Alias": "业务类型",
+            "Type": "System.String"
+          },
+          "8": {
+            "Name": "CSBXJTFY_F_DJLX",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_DJLX",
+            "Alias": "单据类型",
+            "Type": "System.String"
+          },
+          "9": {
+            "Name": "CSBXJTFY_F_DJBH",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_DJBH",
+            "Alias": "单据编号",
+            "Type": "System.String"
+          },
+          "10": {
+            "Name": "CSBXJTFY_F_FLBH",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_FLBH",
+            "Alias": "分录编号",
+            "Type": "System.String"
+          },
+          "11": {
+            "Name": "CSZGZD_F_ZGBH",
+            "Index": -1,
+            "NameInSource": "CSZGZD_F_ZGBH",
+            "Alias": "出差人",
+            "Type": "System.String"
+          },
+          "12": {
+            "Name": "CSBMZD_F_YWBMBH",
+            "Index": -1,
+            "NameInSource": "CSBMZD_F_YWBMBH",
+            "Alias": "出差人部门",
+            "Type": "System.String"
+          },
+          "13": {
+            "Name": "CSBXJTFY_F_YWXMBH",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_YWXMBH",
+            "Alias": "出差人项目",
+            "Type": "System.String"
+          },
+          "14": {
+            "Name": "CSBXJTFY_F_YWZZJG",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_YWZZJG",
+            "Alias": "出差人机构",
+            "Type": "System.String"
+          },
+          "15": {
+            "Name": "SYS_CITY_F_CFDD",
+            "Index": -1,
+            "NameInSource": "SYS_CITY_F_CFDD",
+            "Alias": "出发地点",
+            "Type": "System.String"
+          },
+          "16": {
+            "Name": "SYS_CITY_F_DDDD",
+            "Index": -1,
+            "NameInSource": "SYS_CITY_F_DDDD",
+            "Alias": "到达地点",
+            "Type": "System.String"
+          },
+          "17": {
+            "Name": "CSBXJTFY_F_CFSJ",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_CFSJ",
+            "Alias": "出发时间",
+            "Type": "System.String"
+          },
+          "18": {
+            "Name": "CSBXJTFY_F_FHSJ",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_FHSJ",
+            "Alias": "返回时间",
+            "Type": "System.String"
+          },
+          "19": {
+            "Name": "CSBXJTFY_F_CCTS",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_CCTS",
+            "Alias": "出差天数",
+            "Type": "System.Int32"
+          },
+          "20": {
+            "Name": "CSBXJTGJZD_F_JTFS",
+            "Index": -1,
+            "NameInSource": "CSBXJTGJZD_F_JTFS",
+            "Alias": "交通工具",
+            "Type": "System.String"
+          },
+          "21": {
+            "Name": "CSBXJTFY_F_ZWLX",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_ZWLX",
+            "Alias": "座位类型",
+            "Type": "System.String"
+          },
+          "22": {
+            "Name": "CSBXJTFY_F_PMJE",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_PMJE",
+            "Alias": "票面金额",
+            "Type": "System.Int32"
+          },
+          "23": {
+            "Name": "CSBXJTFY_F_SBJE",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_SBJE",
+            "Alias": "实报金额",
+            "Type": "System.Int32"
+          },
+          "24": {
+            "Name": "CSBXJTFY_F_WLCZJE",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_WLCZJE",
+            "Alias": "往来车站机场费用",
+            "Type": "System.Int32"
+          },
+          "25": {
+            "Name": "CSBXJTFY_F_HJJE",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_HJJE",
+            "Alias": "金额合计",
+            "Type": "System.Int32"
+          },
+          "26": {
+            "Name": "CSBXJTFY_F_JTBZ",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_JTBZ",
+            "Alias": "交通标准",
+            "Type": "System.String"
+          },
+          "27": {
+            "Name": "CSBXJTFY_F_SFCB",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_SFCB",
+            "Alias": "是否超标",
+            "Type": "System.String"
+          },
+          "28": {
+            "Name": "CSBXJTFY_F_BZ",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_BZ",
+            "Alias": "币种",
+            "Type": "System.String"
+          },
+          "29": {
+            "Name": "CSBXJTFY_F_HL",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_HL",
+            "Alias": "汇率",
+            "Type": "System.Int32"
+          },
+          "30": {
+            "Name": "CSBXJTFY_F_JYJE",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_JYJE",
+            "Alias": "交易币金额",
+            "Type": "System.Int32"
+          },
+          "31": {
+            "Name": "CSBXJTFY_F_STR01",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_STR01",
+            "Alias": "预留字段01",
+            "Type": "System.String"
+          },
+          "32": {
+            "Name": "CSBXJTFY_F_STR02",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_STR02",
+            "Alias": "预留字段02",
+            "Type": "System.String"
+          },
+          "33": {
+            "Name": "CSBXJTFY_F_STR03",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_STR03",
+            "Alias": "预留字段03",
+            "Type": "System.String"
+          },
+          "34": {
+            "Name": "CSBXJTFY_F_STR04",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_STR04",
+            "Alias": "预留字段04",
+            "Type": "System.String"
+          },
+          "35": {
+            "Name": "CSBXJTFY_F_STR05",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_STR05",
+            "Alias": "预留字段05",
+            "Type": "System.String"
+          },
+          "36": {
+            "Name": "CSBXJTFY_F_NUM01",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_NUM01",
+            "Alias": "预留金额01",
+            "Type": "System.Int32"
+          },
+          "37": {
+            "Name": "CSBXJTFY_F_NUM02",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_NUM02",
+            "Alias": "预留金额02",
+            "Type": "System.Int32"
+          },
+          "38": {
+            "Name": "CSBXJTFY_F_NUM03",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_NUM03",
+            "Alias": "预留金额03",
+            "Type": "System.Int32"
+          },
+          "39": {
+            "Name": "CSBXJTFY_F_NUM04",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_NUM04",
+            "Alias": "预留金额04",
+            "Type": "System.Int32"
+          },
+          "40": {
+            "Name": "CSBXJTFY_F_NUM05",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_NUM05",
+            "Alias": "预留金额05",
+            "Type": "System.Int32"
+          },
+          "41": {
+            "Name": "CSBXJTFY_F_CRDATE",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_CRDATE",
+            "Alias": "创建日期",
+            "Type": "System.DateTime"
+          },
+          "42": {
+            "Name": "CSBXJTFY_F_CHDATE",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_CHDATE",
+            "Alias": "修改日期",
+            "Type": "System.DateTime"
+          },
+          "43": {
+            "Name": "CSBXJTFY_F_NOTE",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_NOTE",
+            "Alias": "备注",
+            "Type": "System.String"
+          },
+          "44": {
+            "Name": "CSBXJTFY_F_JE",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_JE",
+            "Alias": "金额合计",
+            "Type": "System.Int32"
+          },
+          "45": {
+            "Name": "CSBXJTFY_F_BXJB",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_BXJB",
+            "Alias": "报销级别",
+            "Type": "System.String"
+          },
+          "46": {
+            "Name": "CSBXJTFY_F_SFSQDC",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_SFSQDC",
+            "Alias": "是否申请带出",
+            "Type": "System.String"
+          },
+          "47": {
+            "Name": "CSBXJTFY_F_DDSJ",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_DDSJ",
+            "Alias": "到达时间",
+            "Type": "System.String"
+          },
+          "48": {
+            "Name": "CSBXJTFY_F_LYPJBH",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_LYPJBH",
+            "Alias": "来源票据编号",
+            "Type": "System.String"
+          },
+          "49": {
+            "Name": "CSBXQYXZZD_F_CHDQ",
+            "Index": -1,
+            "NameInSource": "CSBXQYXZZD_F_CHDQ",
+            "Alias": "出差地区",
+            "Type": "System.String"
+          },
+          "50": {
+            "Name": "CSCSJJT_PJLX_F_PJBH",
+            "Index": -1,
+            "NameInSource": "CSCSJJT_PJLX_F_PJBH",
+            "Alias": "票据类型编号",
+            "Type": "System.String"
+          },
+          "51": {
+            "Name": "CSSLZD_F_SLBH",
+            "Index": -1,
+            "NameInSource": "CSSLZD_F_SLBH",
+            "Alias": "税率编号",
+            "Type": "System.String"
+          },
+          "52": {
+            "Name": "CSBXJTFY_F_SL",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_SL",
+            "Alias": "税率",
+            "Type": "System.Int32"
+          },
+          "53": {
+            "Name": "CSBXJTFY_F_SE",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_SE",
+            "Alias": "税额",
+            "Type": "System.Int32"
+          },
+          "54": {
+            "Name": "CSBXJTFY_F_JCJSF",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_JCJSF",
+            "Alias": "机场建设费",
+            "Type": "System.Int32"
+          },
+          "55": {
+            "Name": "CSBXJTFY_F_RYFJF",
+            "Index": -1,
+            "NameInSource": "CSBXJTFY_F_RYFJF",
+            "Alias": "燃油附加费",
+            "Type": "System.Int32"
+          }
+        },
+        "NameInSource": "database.CSBXJTFY"
+      },
+      "5": {
+        "Ident": "StiDataTableSource",
+        "Name": "CSBXQTFY",
+        "Alias": "其他费用",
+        "Columns": {
+          "0": {
+            "Name": "CSBXQTFY_F_GUID",
+            "Index": -1,
+            "NameInSource": "CSBXQTFY_F_GUID",
+            "Alias": "唯一标识",
+            "Type": "System.String"
+          },
+          "1": {
+            "Name": "CSBXQTFY_F_UNITID",
+            "Index": -1,
+            "NameInSource": "CSBXQTFY_F_UNITID",
+            "Alias": "账套编号",
+            "Type": "System.String"
+          },
+          "2": {
+            "Name": "CSBXQTFY_F_ZZJG",
+            "Index": -1,
+            "NameInSource": "CSBXQTFY_F_ZZJG",
+            "Alias": "组织机构",
+            "Type": "System.String"
+          },
+          "3": {
+            "Name": "CSBXQTFY_F_BKBH",
+            "Index": -1,
+            "NameInSource": "CSBXQTFY_F_BKBH",
+            "Alias": "板块编号",
+            "Type": "System.String"
+          },
+          "4": {
+            "Name": "CSBXQTFY_F_BMBH",
+            "Index": -1,
+            "NameInSource": "CSBXQTFY_F_BMBH",
+            "Alias": "部门编号",
+            "Type": "System.String"
+          },
+          "5": {
+            "Name": "CSBXQTFY_F_XMBH",
+            "Index": -1,
+            "NameInSource": "CSBXQTFY_F_XMBH",
+            "Alias": "项目编号",
+            "Type": "System.String"
+          },
+          "6": {
+            "Name": "CSBXQTFY_F_DATE",
+            "Index": -1,
+            "NameInSource": "CSBXQTFY_F_DATE",
+            "Alias": "制单日期",
+            "Type": "System.String"
+          },
+          "7": {
+            "Name": "CSBXQTFY_F_YWLX",
+            "Index": -1,
+            "NameInSource": "CSBXQTFY_F_YWLX",
+            "Alias": "业务类型",
+            "Type": "System.String"
+          },
+          "8": {
+            "Name": "CSBXQTFY_F_DJLX",
+            "Index": -1,
+            "NameInSource": "CSBXQTFY_F_DJLX",
+            "Alias": "单据类型",
+            "Type": "System.String"
+          },
+          "9": {
+            "Name": "CSBXQTFY_F_DJBH",
+            "Index": -1,
+            "NameInSource": "CSBXQTFY_F_DJBH",
+            "Alias": "单据编号",
+            "Type": "System.String"
+          },
+          "10": {
+            "Name": "CSBXQTFY_F_FLBH",
+            "Index": -1,
+            "NameInSource": "CSBXQTFY_F_FLBH",
+            "Alias": "分录编号",
+            "Type": "System.String"
+          },
+          "11": {
+            "Name": "CSZGZD_F_ZGBH",
+            "Index": -1,
+            "NameInSource": "CSZGZD_F_ZGBH",
+            "Alias": "人员",
+            "Type": "System.String"
+          },
+          "12": {
+            "Name": "CSBXQTFY_F_YWZZJG",
+            "Index": -1,
+            "NameInSource": "CSBXQTFY_F_YWZZJG",
+            "Alias": "出差人机构",
+            "Type": "System.String"
+          },
+          "13": {
+            "Name": "CSBMZD_F_YWBMBH",
+            "Index": -1,
+            "NameInSource": "CSBMZD_F_YWBMBH",
+            "Alias": "出差人部门",
+            "Type": "System.String"
+          },
+          "14": {
+            "Name": "CSBXQTFY_F_YWXMBH",
+            "Index": -1,
+            "NameInSource": "CSBXQTFY_F_YWXMBH",
+            "Alias": "出差人项目",
+            "Type": "System.String"
+          },
+          "15": {
+            "Name": "CSYWMXZD_F_BXFYXM",
+            "Index": -1,
+            "NameInSource": "CSYWMXZD_F_BXFYXM",
+            "Alias": "报销事项",
+            "Type": "System.String"
+          },
+          "16": {
+            "Name": "CSBXQTFY_F_QZSJ",
+            "Index": -1,
+            "NameInSource": "CSBXQTFY_F_QZSJ",
+            "Alias": "起止时间",
+            "Type": "System.String"
+          },
+          "17": {
+            "Name": "CSBXQTFY_F_QTJE",
+            "Index": -1,
+            "NameInSource": "CSBXQTFY_F_QTJE",
+            "Alias": "金额（含税）",
+            "Type": "System.Int32"
+          },
+          "18": {
+            "Name": "CSFPLXZD_F_FPLX",
+            "Index": -1,
+            "NameInSource": "CSFPLXZD_F_FPLX",
+            "Alias": "发票类型",
+            "Type": "System.String"
+          },
+          "19": {
+            "Name": "CSBXQTFY_F_SL",
+            "Index": -1,
+            "NameInSource": "CSBXQTFY_F_SL",
+            "Alias": "税率",
+            "Type": "System.Int32"
+          },
+          "20": {
+            "Name": "CSBXQTFY_F_SE",
+            "Index": -1,
+            "NameInSource": "CSBXQTFY_F_SE",
+            "Alias": "税额",
+            "Type": "System.Int32"
+          },
+          "21": {
+            "Name": "CSBXQTFY_F_CRDATE",
+            "Index": -1,
+            "NameInSource": "CSBXQTFY_F_CRDATE",
+            "Alias": "创建日期",
+            "Type": "System.DateTime"
+          },
+          "22": {
+            "Name": "CSBXQTFY_F_CHDATE",
+            "Index": -1,
+            "NameInSource": "CSBXQTFY_F_CHDATE",
+            "Alias": "修改日期",
+            "Type": "System.DateTime"
+          },
+          "23": {
+            "Name": "CSBXQTFY_F_NOTE",
+            "Index": -1,
+            "NameInSource": "CSBXQTFY_F_NOTE",
+            "Alias": "备注",
+            "Type": "System.String"
+          },
+          "24": {
+            "Name": "CSBXQTFY_F_JZSJ",
+            "Index": -1,
+            "NameInSource": "CSBXQTFY_F_JZSJ",
+            "Alias": "截止时间",
+            "Type": "System.String"
+          },
+          "25": {
+            "Name": "CSBXQTFY_F_DAYS",
+            "Index": -1,
+            "NameInSource": "CSBXQTFY_F_DAYS",
+            "Alias": "天数",
+            "Type": "System.Int32"
+          },
+          "26": {
+            "Name": "CSBXQTFY_F_KKJE",
+            "Index": -1,
+            "NameInSource": "CSBXQTFY_F_KKJE",
+            "Alias": "扣款金额",
+            "Type": "System.Int32"
+          },
+          "27": {
+            "Name": "CSBXQTFY_F_JE",
+            "Index": -1,
+            "NameInSource": "CSBXQTFY_F_JE",
+            "Alias": "实际报销金额",
+            "Type": "System.Int32"
+          },
+          "28": {
+            "Name": "CSBXQTFY_F_SY",
+            "Index": -1,
+            "NameInSource": "CSBXQTFY_F_SY",
+            "Alias": "事由",
+            "Type": "System.String"
+          },
+          "29": {
+            "Name": "CSBXQTFY_F_HJJE",
+            "Index": -1,
+            "NameInSource": "CSBXQTFY_F_HJJE",
+            "Alias": "核减金额",
+            "Type": "System.Int32"
+          },
+          "30": {
+            "Name": "CSBXQTFY_F_LYPJBH",
+            "Index": -1,
+            "NameInSource": "CSBXQTFY_F_LYPJBH",
+            "Alias": "来源票据编号",
+            "Type": "System.String"
+          },
+          "31": {
+            "Name": "CSZCKPZD_F_ZCKP",
+            "Index": -1,
+            "NameInSource": "CSZCKPZD_F_ZCKP",
+            "Alias": "资产卡片",
+            "Type": "System.String"
+          },
+          "32": {
+            "Name": "CSBXQTFY_F_ZCLXBH",
+            "Index": -1,
+            "NameInSource": "CSBXQTFY_F_ZCLXBH",
+            "Alias": "资产类型编号",
+            "Type": "System.String"
+          },
+          "33": {
+            "Name": "CSBXQTFY_F_ZCLXMC",
+            "Index": -1,
+            "NameInSource": "CSBXQTFY_F_ZCLXMC",
+            "Alias": "资产类型名称",
+            "Type": "System.String"
+          },
+          "34": {
+            "Name": "CSBZZD_F_BZ",
+            "Index": -1,
+            "NameInSource": "CSBZZD_F_BZ",
+            "Alias": "币种",
+            "Type": "System.String"
+          },
+          "35": {
+            "Name": "CSBXQTFY_F_HL",
+            "Index": -1,
+            "NameInSource": "CSBXQTFY_F_HL",
+            "Alias": "汇率",
+            "Type": "System.Int32"
+          },
+          "36": {
+            "Name": "CSBXQTFY_F_BZJE",
+            "Index": -1,
+            "NameInSource": "CSBXQTFY_F_BZJE",
+            "Alias": "币种金额",
+            "Type": "System.Int32"
+          },
+          "37": {
+            "Name": "CSBXQTFY_F_FPGUID",
+            "Index": -1,
+            "NameInSource": "CSBXQTFY_F_FPGUID",
+            "Alias": "关联GUID",
+            "Type": "System.String"
+          }
+        },
+        "NameInSource": "database.CSBXQTFY"
+      },
+      "6": {
+        "Ident": "StiDataTableSource",
+        "Name": "CSTYFPXX",
+        "Alias": "通用发票信息",
+        "Columns": {
+          "0": {
+            "Name": "CSTYFPXX_F_GUID",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_GUID",
+            "Alias": "F_GUID",
+            "Type": "System.String"
+          },
+          "1": {
+            "Name": "CSTYFPXX_F_UNITID",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_UNITID",
+            "Alias": "账套编号",
+            "Type": "System.String"
+          },
+          "2": {
+            "Name": "CSZZJG_F_ZZJG",
+            "Index": -1,
+            "NameInSource": "CSZZJG_F_ZZJG",
+            "Alias": "组织机构",
+            "Type": "System.String"
+          },
+          "3": {
+            "Name": "CSBMZD_F_BMBH",
+            "Index": -1,
+            "NameInSource": "CSBMZD_F_BMBH",
+            "Alias": "制单部门",
+            "Type": "System.String"
+          },
+          "4": {
+            "Name": "CSTYFPXX_F_XMBH",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_XMBH",
+            "Alias": "项目编号",
+            "Type": "System.String"
+          },
+          "5": {
+            "Name": "CSTYFPXX_F_DATE",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_DATE",
+            "Alias": "制单日期",
+            "Type": "System.String"
+          },
+          "6": {
+            "Name": "CSTYFPXX_F_YWLX",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_YWLX",
+            "Alias": "业务类型",
+            "Type": "System.String"
+          },
+          "7": {
+            "Name": "CSDJLX_F_DJLX",
+            "Index": -1,
+            "NameInSource": "CSDJLX_F_DJLX",
+            "Alias": "单据类型",
+            "Type": "System.String"
+          },
+          "8": {
+            "Name": "CSTYFPXX_F_DJBH",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_DJBH",
+            "Alias": "单据编号",
+            "Type": "System.String"
+          },
+          "9": {
+            "Name": "CSTYFPXX_F_FLBH",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_FLBH",
+            "Alias": "分录编号",
+            "Type": "System.String"
+          },
+          "10": {
+            "Name": "CSFPLXZD_F_FPLX",
+            "Index": -1,
+            "NameInSource": "CSFPLXZD_F_FPLX",
+            "Alias": "发票类型编号",
+            "Type": "System.String"
+          },
+          "11": {
+            "Name": "CSTYFPXX_F_FPLXMC",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_FPLXMC",
+            "Alias": "发票类型名称",
+            "Type": "System.String"
+          },
+          "12": {
+            "Name": "CSTYFPXX_F_FPDM",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_FPDM",
+            "Alias": "发票代码",
+            "Type": "System.String"
+          },
+          "13": {
+            "Name": "CSTYFPXX_F_FPHM",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_FPHM",
+            "Alias": "发票号码",
+            "Type": "System.String"
+          },
+          "14": {
+            "Name": "CSTYFPXX_F_FPZT",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_FPZT",
+            "Alias": "发票状态",
+            "Type": "System.String"
+          },
+          "15": {
+            "Name": "CSTYFPXX_F_KPRQ",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_KPRQ",
+            "Alias": "开票日期",
+            "Type": "System.String"
+          },
+          "16": {
+            "Name": "CSTYFPXX_F_FPJE",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_FPJE",
+            "Alias": "发票金额(含税)",
+            "Type": "System.Int32"
+          },
+          "17": {
+            "Name": "CSTYFPXX_F_JXSE",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_JXSE",
+            "Alias": "税额",
+            "Type": "System.Int32"
+          },
+          "18": {
+            "Name": "CSTYFPXX_F_BCGLJE",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_BCGLJE",
+            "Alias": "本次关联金额",
+            "Type": "System.String"
+          },
+          "19": {
+            "Name": "CSTYFPXX_F_CHDATE",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_CHDATE",
+            "Alias": "修改时间",
+            "Type": "System.DateTime"
+          },
+          "20": {
+            "Name": "CSTYFPXX_F_CRDATE",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_CRDATE",
+            "Alias": "创建时间",
+            "Type": "System.DateTime"
+          },
+          "21": {
+            "Name": "CSTYFPXX_F_ORDER",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_ORDER",
+            "Alias": "上传序号",
+            "Type": "System.Int64"
+          },
+          "22": {
+            "Name": "CSTYFPXX_F_FJGS",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_FJGS",
+            "Alias": "附件个数",
+            "Type": "System.Int64"
+          },
+          "23": {
+            "Name": "CSTYFPXX_F_SLBH",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_SLBH",
+            "Alias": "税率编号",
+            "Type": "System.String"
+          },
+          "24": {
+            "Name": "CSTYFPXX_F_SLZ",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_SLZ",
+            "Alias": "税率值",
+            "Type": "System.Int32"
+          },
+          "25": {
+            "Name": "CSTYFPXX_F_BHSJE",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_BHSJE",
+            "Alias": "不含税金额",
+            "Type": "System.Int32"
+          },
+          "26": {
+            "Name": "CSTYFPXX_F_ZS",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_ZS",
+            "Alias": "张数",
+            "Type": "System.Int64"
+          },
+          "27": {
+            "Name": "CSTYFPXX_F_FPDJ",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_FPDJ",
+            "Alias": "发票单价",
+            "Type": "System.Int32"
+          },
+          "28": {
+            "Name": "CSTYFPXX_F_SFDK",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_SFDK",
+            "Alias": "是否抵扣",
+            "Type": "System.String"
+          },
+          "29": {
+            "Name": "CSTYFPXX_F_LYPJBH",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_LYPJBH",
+            "Alias": "来源票据编号",
+            "Type": "System.String"
+          },
+          "30": {
+            "Name": "CSTYFPXX_F_FTJE",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_FTJE",
+            "Alias": "分摊金额",
+            "Type": "System.Int32"
+          },
+          "31": {
+            "Name": "CSTYFPXX_F_ZCJE",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_ZCJE",
+            "Alias": "转出金额",
+            "Type": "System.Int32"
+          },
+          "32": {
+            "Name": "CSTYFPXX_F_ZCYY",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_ZCYY",
+            "Alias": "转出原因",
+            "Type": "System.String"
+          },
+          "33": {
+            "Name": "CSTYFPXX_F_QRFS",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_QRFS",
+            "Alias": "进项转出金额确定方式",
+            "Type": "System.String"
+          },
+          "34": {
+            "Name": "CSTYFPXX_F_SJYHXJE",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_SJYHXJE",
+            "Alias": "实际已使用金额",
+            "Type": "System.Int32"
+          },
+          "35": {
+            "Name": "CSTYFPXX_F_ZTYHJE",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_ZTYHJE",
+            "Alias": "在途使用金额",
+            "Type": "System.Int32"
+          },
+          "36": {
+            "Name": "CSTYFPXX_F_WHXJE",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_WHXJE",
+            "Alias": "未使用金额",
+            "Type": "System.Int32"
+          },
+          "37": {
+            "Name": "CSTYFPXX_F_BCHXJE",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_BCHXJE",
+            "Alias": "本次使用金额",
+            "Type": "System.Int32"
+          },
+          "38": {
+            "Name": "CSTYFPXX_F_LYDJBH",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_LYDJBH",
+            "Alias": "来源单据号",
+            "Type": "System.String"
+          },
+          "39": {
+            "Name": "CSTYFPXX_F_LYDJGUID",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_LYDJGUID",
+            "Alias": "来源单据ID",
+            "Type": "System.String"
+          },
+          "40": {
+            "Name": "CSTYFPXX_F_LYUNIT",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_LYUNIT",
+            "Alias": "来源unit",
+            "Type": "System.String"
+          },
+          "41": {
+            "Name": "CSTYFPXX_F_LYFLBH",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_LYFLBH",
+            "Alias": "来源分录号",
+            "Type": "System.String"
+          },
+          "42": {
+            "Name": "CSTYFPXX_F_LYDJRQ",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_LYDJRQ",
+            "Alias": "来源单据日期",
+            "Type": "System.String"
+          },
+          "43": {
+            "Name": "CSTYFPXX_F_LYSY",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_LYSY",
+            "Alias": "来源事由",
+            "Type": "System.String"
+          },
+          "44": {
+            "Name": "CSTYFPXX_F_LYMENUID",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_LYMENUID",
+            "Alias": "来源菜单id",
+            "Type": "System.String"
+          },
+          "45": {
+            "Name": "CSTYFPXX_F_LYFORMID",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_LYFORMID",
+            "Alias": "来源表单id",
+            "Type": "System.String"
+          },
+          "46": {
+            "Name": "CSTYFPXX_F_LYTABTT",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_LYTABTT",
+            "Alias": "来源单据头名称",
+            "Type": "System.String"
+          },
+          "47": {
+            "Name": "CSTYFPXX_F_JSHJ",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_JSHJ",
+            "Alias": "价税合计",
+            "Type": "System.Int32"
+          },
+          "48": {
+            "Name": "CSTYFPXX_F_SFFB",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_SFFB",
+            "Alias": "是否分包",
+            "Type": "System.String"
+          },
+          "49": {
+            "Name": "CSTYFPXX_F_SFBDC",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_SFBDC",
+            "Alias": "是否不动产",
+            "Type": "System.String"
+          },
+          "50": {
+            "Name": "CSTYFPXX_F_BDCMC",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_BDCMC",
+            "Alias": "不动产名称",
+            "Type": "System.String"
+          },
+          "51": {
+            "Name": "CSTYFPXX_F_SFNCP",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_SFNCP",
+            "Alias": "是否农产品",
+            "Type": "System.String"
+          },
+          "52": {
+            "Name": "CSTYFPXX_F_SFWM",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_SFWM",
+            "Alias": "是否外贸",
+            "Type": "System.String"
+          },
+          "53": {
+            "Name": "CSTYFPXX_F_SFJXZC",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_SFJXZC",
+            "Alias": "是否进项转出",
+            "Type": "System.String"
+          },
+          "54": {
+            "Name": "CSTYFPXX_F_JXZCLX",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_JXZCLX",
+            "Alias": "进项转出类型",
+            "Type": "System.String"
+          },
+          "55": {
+            "Name": "CSTYFPXX_F_ZCFS",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_ZCFS",
+            "Alias": "转出方式",
+            "Type": "System.String"
+          },
+          "56": {
+            "Name": "CSTYFPXX_F_YZZT",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_YZZT",
+            "Alias": "验真状态",
+            "Type": "System.String"
+          },
+          "57": {
+            "Name": "CSTYFPXX_F_FPZJE",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_FPZJE",
+            "Alias": "发票总金额",
+            "Type": "System.Int32"
+          },
+          "58": {
+            "Name": "CSTYFPXX_F_JXZSE",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_JXZSE",
+            "Alias": "总税额",
+            "Type": "System.Int32"
+          },
+          "59": {
+            "Name": "CSTYFPXX_F_FPGUID",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_FPGUID",
+            "Alias": "关联GUID",
+            "Type": "System.String"
+          },
+          "60": {
+            "Name": "CSTYFPXX_F_HGJYZT",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_HGJYZT",
+            "Alias": "合规校验状态",
+            "Type": "System.String"
+          },
+          "61": {
+            "Name": "CSTYFPXX_F_HGJYJG",
+            "Index": -1,
+            "NameInSource": "CSTYFPXX_F_HGJYJG",
+            "Alias": "合规校验结果",
+            "Type": "System.String"
+          }
+        },
+        "NameInSource": "database.CSTYFPXX"
+      },
+      "7": {
+        "Ident": "StiDataTableSource",
+        "Name": "CSBXDKSJ",
+        "Alias": "代扣税金",
+        "Columns": {
+          "0": {
+            "Name": "CSBXDKSJ_F_GUID",
+            "Index": -1,
+            "NameInSource": "CSBXDKSJ_F_GUID",
+            "Alias": "F_GUID",
+            "Type": "System.String"
+          },
+          "1": {
+            "Name": "CSBXDKSJ_F_UNITID",
+            "Index": -1,
+            "NameInSource": "CSBXDKSJ_F_UNITID",
+            "Alias": "F_UNITID",
+            "Type": "System.String"
+          },
+          "2": {
+            "Name": "CSBXDKSJ_F_ZZJG",
+            "Index": -1,
+            "NameInSource": "CSBXDKSJ_F_ZZJG",
+            "Alias": "F_ZZJG",
+            "Type": "System.String"
+          },
+          "3": {
+            "Name": "CSBXDKSJ_F_BKBH",
+            "Index": -1,
+            "NameInSource": "CSBXDKSJ_F_BKBH",
+            "Alias": "F_BKBH",
+            "Type": "System.String"
+          },
+          "4": {
+            "Name": "CSBXDKSJ_F_BMBH",
+            "Index": -1,
+            "NameInSource": "CSBXDKSJ_F_BMBH",
+            "Alias": "F_BMBH",
+            "Type": "System.String"
+          },
+          "5": {
+            "Name": "CSBXDKSJ_F_XMBH",
+            "Index": -1,
+            "NameInSource": "CSBXDKSJ_F_XMBH",
+            "Alias": "F_XMBH",
+            "Type": "System.String"
+          },
+          "6": {
+            "Name": "CSBXDKSJ_F_DATE",
+            "Index": -1,
+            "NameInSource": "CSBXDKSJ_F_DATE",
+            "Alias": "F_DATE",
+            "Type": "System.String"
+          },
+          "7": {
+            "Name": "CSBXDKSJ_F_YWLX",
+            "Index": -1,
+            "NameInSource": "CSBXDKSJ_F_YWLX",
+            "Alias": "F_YWLX",
+            "Type": "System.String"
+          },
+          "8": {
+            "Name": "CSBXDKSJ_F_DJLX",
+            "Index": -1,
+            "NameInSource": "CSBXDKSJ_F_DJLX",
+            "Alias": "F_DJLX",
+            "Type": "System.String"
+          },
+          "9": {
+            "Name": "CSBXDKSJ_F_DJBH",
+            "Index": -1,
+            "NameInSource": "CSBXDKSJ_F_DJBH",
+            "Alias": "F_DJBH",
+            "Type": "System.String"
+          },
+          "10": {
+            "Name": "CSBXDKSJ_F_FLBH",
+            "Index": -1,
+            "NameInSource": "CSBXDKSJ_F_FLBH",
+            "Alias": "F_FLBH",
+            "Type": "System.String"
+          },
+          "11": {
+            "Name": "CSZGZD_F_ZGBH",
+            "Index": -1,
+            "NameInSource": "CSZGZD_F_ZGBH",
+            "Alias": "人员",
+            "Type": "System.String"
+          },
+          "12": {
+            "Name": "CSBXDKSJ_F_JE",
+            "Index": -1,
+            "NameInSource": "CSBXDKSJ_F_JE",
+            "Alias": "代扣金额",
+            "Type": "System.Int32"
+          },
+          "13": {
+            "Name": "CSBXDKSJ_F_CHDATE",
+            "Index": -1,
+            "NameInSource": "CSBXDKSJ_F_CHDATE",
+            "Alias": "修改时间",
+            "Type": "System.DateTime"
+          },
+          "14": {
+            "Name": "CSBXDKSJ_F_NOTE",
+            "Index": -1,
+            "NameInSource": "CSBXDKSJ_F_NOTE",
+            "Alias": "备注",
+            "Type": "System.String"
+          },
+          "15": {
+            "Name": "CSBXDKSJ_F_CRDATE",
+            "Index": -1,
+            "NameInSource": "CSBXDKSJ_F_CRDATE",
+            "Alias": "创建时间",
+            "Type": "System.DateTime"
+          },
+          "16": {
+            "Name": "CSKKLXZD_F_TYPE",
+            "Index": -1,
+            "NameInSource": "CSKKLXZD_F_TYPE",
+            "Alias": "代扣类型",
+            "Type": "System.String"
+          }
+        },
+        "NameInSource": "database.CSBXDKSJ"
+      },
+      "8": {
+        "Ident": "StiDataTableSource",
+        "Name": "CSBXTTXX",
+        "Alias": "费用单据抬头",
+        "Columns": {
+          "0": {
+            "Name": "CSBXTTXX_F_GUID",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_GUID",
+            "Alias": "唯一标识",
+            "Type": "System.String"
+          },
+          "1": {
+            "Name": "CSBXTTXX_F_UNITID",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_UNITID",
+            "Alias": "账套编号",
+            "Type": "System.String"
+          },
+          "2": {
+            "Name": "CSZZJG_F_ZZJG",
+            "Index": -1,
+            "NameInSource": "CSZZJG_F_ZZJG",
+            "Alias": "组织机构",
+            "Type": "System.String"
+          },
+          "3": {
+            "Name": "CSBXTTXX_F_MDMGSBM",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_MDMGSBM",
+            "Alias": "MDM公司编码",
+            "Type": "System.String"
+          },
+          "4": {
+            "Name": "CSBXTTXX_F_ZZJGMC",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_ZZJGMC",
+            "Alias": "组织机构名称",
+            "Type": "System.String"
+          },
+          "5": {
+            "Name": "CSBKZD_F_BKBH",
+            "Index": -1,
+            "NameInSource": "CSBKZD_F_BKBH",
+            "Alias": "板块编号",
+            "Type": "System.String"
+          },
+          "6": {
+            "Name": "CSBXTTXX_F_BKMC",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_BKMC",
+            "Alias": "板块名称",
+            "Type": "System.String"
+          },
+          "7": {
+            "Name": "CSBMZD_F_BMBH",
+            "Index": -1,
+            "NameInSource": "CSBMZD_F_BMBH",
+            "Alias": "部门编号",
+            "Type": "System.String"
+          },
+          "8": {
+            "Name": "CSBXTTXX_F_BMMC",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_BMMC",
+            "Alias": "部门名称",
+            "Type": "System.String"
+          },
+          "9": {
+            "Name": "CSXMZD_F_XMBH",
+            "Index": -1,
+            "NameInSource": "CSXMZD_F_XMBH",
+            "Alias": "项目编号",
+            "Type": "System.String"
+          },
+          "10": {
+            "Name": "CSBXTTXX_F_XMMC",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_XMMC",
+            "Alias": "项目名称",
+            "Type": "System.String"
+          },
+          "11": {
+            "Name": "CSBXTTXX_F_DATE",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_DATE",
+            "Alias": "制单日期",
+            "Type": "System.String"
+          },
+          "12": {
+            "Name": "CSYWLX_F_YWLX",
+            "Index": -1,
+            "NameInSource": "CSYWLX_F_YWLX",
+            "Alias": "业务类型",
+            "Type": "System.String"
+          },
+          "13": {
+            "Name": "CSDJLX_F_DJLX",
+            "Index": -1,
+            "NameInSource": "CSDJLX_F_DJLX",
+            "Alias": "单据类型",
+            "Type": "System.String"
+          },
+          "14": {
+            "Name": "CSBXTTXX_F_DJLXMC",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_DJLXMC",
+            "Alias": "单据类型名称",
+            "Type": "System.String"
+          },
+          "15": {
+            "Name": "F_DJBH",
+            "Index": -1,
+            "NameInSource": "F_DJBH",
+            "Alias": "单据编号",
+            "Type": "System.String"
+          },
+          "16": {
+            "Name": "CSZGZD_F_ZDR",
+            "Index": -1,
+            "NameInSource": "CSZGZD_F_ZDR",
+            "Alias": "制单人",
+            "Type": "System.String"
+          },
+          "17": {
+            "Name": "CSBXTTXX_F_ZDRMC",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_ZDRMC",
+            "Alias": "制单人名称",
+            "Type": "System.String"
+          },
+          "18": {
+            "Name": "CSZZJG_F_ZDZZJG",
+            "Index": -1,
+            "NameInSource": "CSZZJG_F_ZDZZJG",
+            "Alias": "制单人组织机构",
+            "Type": "System.String"
+          },
+          "19": {
+            "Name": "CSBMZD_F_ZDBM",
+            "Index": -1,
+            "NameInSource": "CSBMZD_F_ZDBM",
+            "Alias": "制单部门",
+            "Type": "System.String"
+          },
+          "20": {
+            "Name": "CSBXTTXX_F_ZDSJ",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_ZDSJ",
+            "Alias": "制单时间",
+            "Type": "System.String"
+          },
+          "21": {
+            "Name": "CSBXTTXX_F_DJZT",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_DJZT",
+            "Alias": "单据状态",
+            "Type": "System.String"
+          },
+          "22": {
+            "Name": "CSBXTTXX_F_SY",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_SY",
+            "Alias": "事由",
+            "Type": "System.String"
+          },
+          "23": {
+            "Name": "CSBXTTXX_F_NOTE",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_NOTE",
+            "Alias": "备注",
+            "Type": "System.String"
+          },
+          "24": {
+            "Name": "CSBXTTXX_F_FJZS",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_FJZS",
+            "Alias": "附件张数",
+            "Type": "System.Int64"
+          },
+          "25": {
+            "Name": "CSBZZD_F_BWB",
+            "Index": -1,
+            "NameInSource": "CSBZZD_F_BWB",
+            "Alias": "本位币种",
+            "Type": "System.String"
+          },
+          "26": {
+            "Name": "CSBXTTXX_F_JE",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_JE",
+            "Alias": "合计金额",
+            "Type": "System.Int32"
+          },
+          "27": {
+            "Name": "CSBXTTXX_F_KJQJ",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_KJQJ",
+            "Alias": "凭证期间",
+            "Type": "System.String"
+          },
+          "28": {
+            "Name": "CSBXTTXX_F_PZBH",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_PZBH",
+            "Alias": "凭证编号",
+            "Type": "System.String"
+          },
+          "29": {
+            "Name": "CSBXTTXX_F_CXBZ",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_CXBZ",
+            "Alias": "冲销标志",
+            "Type": "System.String"
+          },
+          "30": {
+            "Name": "CSBXTTXX_F_CXGUID",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_CXGUID",
+            "Alias": "冲销GUID",
+            "Type": "System.String"
+          },
+          "31": {
+            "Name": "CSBXTTXX_F_BCXGUID",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_BCXGUID",
+            "Alias": "被冲销GUID",
+            "Type": "System.String"
+          },
+          "32": {
+            "Name": "CSBXTTXX_F_JJ",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_JJ",
+            "Alias": "是否加急",
+            "Type": "System.String"
+          },
+          "33": {
+            "Name": "CSBXTTXX_F_CHDATE",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_CHDATE",
+            "Alias": "修改时间",
+            "Type": "System.DateTime"
+          },
+          "34": {
+            "Name": "CSBXTTXX_F_CRDATE",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_CRDATE",
+            "Alias": "创建时间",
+            "Type": "System.DateTime"
+          },
+          "35": {
+            "Name": "CSBXTTXX_F_ZFZT",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_ZFZT",
+            "Alias": "支付状态",
+            "Type": "System.String"
+          },
+          "36": {
+            "Name": "CSBXTTXX_F_ZFMESS",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_ZFMESS",
+            "Alias": "资金返回信息",
+            "Type": "System.String"
+          },
+          "37": {
+            "Name": "CSBXTTXX_F_ZFRQ",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_ZFRQ",
+            "Alias": "支付日期",
+            "Type": "System.String"
+          },
+          "38": {
+            "Name": "CSBXTTXX_F_FKDJE",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_FKDJE",
+            "Alias": "生成付款单金额",
+            "Type": "System.Int32"
+          },
+          "39": {
+            "Name": "CSBXTTXX_F_FKDID",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_FKDID",
+            "Alias": "付款单号ID",
+            "Type": "System.String"
+          },
+          "40": {
+            "Name": "CSBXTTXX_F_FKDJBH",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_FKDJBH",
+            "Alias": "付款单号",
+            "Type": "System.String"
+          },
+          "41": {
+            "Name": "CSBXTTXX_F_DWBH_DF",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_DWBH_DF",
+            "Alias": "代付单位",
+            "Type": "System.String"
+          },
+          "42": {
+            "Name": "CSBXTTXX_F_DWMC_DF",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_DWMC_DF",
+            "Alias": "代付单位名称",
+            "Type": "System.String"
+          },
+          "43": {
+            "Name": "CSBXTTXX_F_FK_YHBH",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_FK_YHBH",
+            "Alias": "付款银行",
+            "Type": "System.String"
+          },
+          "44": {
+            "Name": "CSBXTTXX_F_FK_ZH",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_FK_ZH",
+            "Alias": "付款账号",
+            "Type": "System.String"
+          },
+          "45": {
+            "Name": "CSBXTTXX_F_SQDID",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_SQDID",
+            "Alias": "申请单ID",
+            "Type": "System.String"
+          },
+          "46": {
+            "Name": "CSBXTTXX_F_SQDBH",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_SQDBH",
+            "Alias": "申请单编号",
+            "Type": "System.String"
+          },
+          "47": {
+            "Name": "CSBXTTXX_F_YSSX",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_YSSX",
+            "Alias": "预算事项",
+            "Type": "System.String"
+          },
+          "48": {
+            "Name": "CSZFFS_F_ZFFS",
+            "Index": -1,
+            "NameInSource": "CSZFFS_F_ZFFS",
+            "Alias": "支付方式",
+            "Type": "System.String"
+          },
+          "49": {
+            "Name": "CSYWLX_F_SQSX",
+            "Index": -1,
+            "NameInSource": "CSYWLX_F_SQSX",
+            "Alias": "申请事项",
+            "Type": "System.String"
+          },
+          "50": {
+            "Name": "CSYWDLZD_F_BXSX",
+            "Index": -1,
+            "NameInSource": "CSYWDLZD_F_BXSX",
+            "Alias": "报销属性",
+            "Type": "System.String"
+          },
+          "51": {
+            "Name": "CSCLJNJWZD_F_JNJW",
+            "Index": -1,
+            "NameInSource": "CSCLJNJWZD_F_JNJW",
+            "Alias": "境内境外",
+            "Type": "System.String"
+          },
+          "52": {
+            "Name": "CSBXTTXX_F_ZXZC",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_ZXZC",
+            "Alias": "专项支出",
+            "Type": "System.String"
+          },
+          "53": {
+            "Name": "CSBXTTXX_F_KYKT",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_KYKT",
+            "Alias": "科研课题",
+            "Type": "System.String"
+          },
+          "54": {
+            "Name": "CSBXTTXX_F_TJGUID",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_TJGUID",
+            "Alias": "条件选择器ID",
+            "Type": "System.String"
+          },
+          "55": {
+            "Name": "CSBXTTXX_F_SFZH",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_SFZH",
+            "Alias": "是否最后引用申请",
+            "Type": "System.String"
+          },
+          "56": {
+            "Name": "CSYTZD_F_YTBH",
+            "Index": -1,
+            "NameInSource": "CSYTZD_F_YTBH",
+            "Alias": "业态",
+            "Type": "System.String"
+          },
+          "57": {
+            "Name": "CSBXTTXX_F_MENUID",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_MENUID",
+            "Alias": "菜单ID",
+            "Type": "System.String"
+          },
+          "58": {
+            "Name": "CSBXTTXX_F_FORMID",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_FORMID",
+            "Alias": "表单ID",
+            "Type": "System.String"
+          },
+          "59": {
+            "Name": "CSBXTTXX_F_TABTT",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_TABTT",
+            "Alias": "单据明细名称",
+            "Type": "System.String"
+          },
+          "60": {
+            "Name": "CSBXTTXX_F_ZDBMMC",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_ZDBMMC",
+            "Alias": "制单部门名称",
+            "Type": "System.String"
+          },
+          "61": {
+            "Name": "CSBXTTXX_F_EJDWBM",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_EJDWBM",
+            "Alias": "二级单位编码",
+            "Type": "System.String"
+          },
+          "62": {
+            "Name": "CSBXTTXX_F_SFCB",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_SFCB",
+            "Alias": "是否超标",
+            "Type": "System.String"
+          },
+          "63": {
+            "Name": "CSBXTTXX_F_YSLB",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_YSLB",
+            "Alias": "预算类别",
+            "Type": "System.String"
+          },
+          "64": {
+            "Name": "CSBXTTXX_F_HKJE",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_HKJE",
+            "Alias": "还款金额",
+            "Type": "System.Int32"
+          },
+          "65": {
+            "Name": "CSBXTTXX_BIZ_MDL1",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_BIZ_MDL1",
+            "Alias": "财务凭证模型",
+            "Type": "System.String"
+          },
+          "66": {
+            "Name": "CSBXTTXX_BIZ_GUID1",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_BIZ_GUID1",
+            "Alias": "凭证id",
+            "Type": "System.String"
+          },
+          "67": {
+            "Name": "CSBXTTXX_BIZ_KJQJ1",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_BIZ_KJQJ1",
+            "Alias": "凭证期间",
+            "Type": "System.String"
+          },
+          "68": {
+            "Name": "CSBXTTXX_BIZ_DWBH1",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_BIZ_DWBH1",
+            "Alias": "核算主体1",
+            "Type": "System.String"
+          },
+          "69": {
+            "Name": "CSBXTTXX_BIZ_DJBH1",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_BIZ_DJBH1",
+            "Alias": "凭证编号1",
+            "Type": "System.String"
+          },
+          "70": {
+            "Name": "CSBXTTXX_F_SFQYYS",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_SFQYYS",
+            "Alias": "是否启用预算",
+            "Type": "System.String"
+          },
+          "71": {
+            "Name": "CSBXTTXX_F_PZCLLX",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_PZCLLX",
+            "Alias": "凭证处理类型",
+            "Type": "System.String"
+          },
+          "72": {
+            "Name": "CSBXTTXX_F_SAPPZLX",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_SAPPZLX",
+            "Alias": "sap凭证类型",
+            "Type": "System.String"
+          },
+          "73": {
+            "Name": "CSBXTTXX_BIZ_STATUS",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_BIZ_STATUS",
+            "Alias": "业务状态",
+            "Type": "System.String"
+          },
+          "74": {
+            "Name": "CSBXTTXX_BUKRS",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_BUKRS",
+            "Alias": "公司代码",
+            "Type": "System.String"
+          },
+          "75": {
+            "Name": "CSBXTTXX_PRCTR",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_PRCTR",
+            "Alias": "利润中心",
+            "Type": "System.String"
+          },
+          "76": {
+            "Name": "CSBXTTXX_F_NBJYLX",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_NBJYLX",
+            "Alias": "内部交易类型",
+            "Type": "System.String"
+          },
+          "77": {
+            "Name": "CSBXTTXX_F_NBJYFX",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_NBJYFX",
+            "Alias": "内部交易方向",
+            "Type": "System.String"
+          },
+          "78": {
+            "Name": "CSBXTTXX_F_NBJYID",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_NBJYID",
+            "Alias": "内部交易ID",
+            "Type": "System.String"
+          },
+          "79": {
+            "Name": "CSBXTTXX_F_SFDF",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_SFDF",
+            "Alias": "是否代付",
+            "Type": "System.String"
+          },
+          "80": {
+            "Name": "CSBXTTXX_DFBUKRS",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_DFBUKRS",
+            "Alias": "代付公司代码",
+            "Type": "System.String"
+          },
+          "81": {
+            "Name": "CSBXTTXX_DFPRCTR",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_DFPRCTR",
+            "Alias": "代付利润中心",
+            "Type": "System.String"
+          },
+          "82": {
+            "Name": "CSXMZD_F_DFXMBH",
+            "Index": -1,
+            "NameInSource": "CSXMZD_F_DFXMBH",
+            "Alias": "代付项目编号",
+            "Type": "System.String"
+          },
+          "83": {
+            "Name": "CSBXTTXX_F_BBPRCTR",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_BBPRCTR",
+            "Alias": "本部利润中心",
+            "Type": "System.String"
+          },
+          "84": {
+            "Name": "CSBXTTXX_F_BBXMBH",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_BBXMBH",
+            "Alias": "本部项目编号",
+            "Type": "System.String"
+          },
+          "85": {
+            "Name": "CSBXTTXX_F_NUM08",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_NUM08",
+            "Alias": "扩展数字08",
+            "Type": "System.Int32"
+          },
+          "86": {
+            "Name": "CSBXTTXX_F_NUM09",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_NUM09",
+            "Alias": "扩展数字09",
+            "Type": "System.Int32"
+          },
+          "87": {
+            "Name": "CSBXTTXX_F_NUM10",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_NUM10",
+            "Alias": "扩展数字10",
+            "Type": "System.Int32"
+          },
+          "88": {
+            "Name": "CSBXTTXX_F_DQBH",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_DQBH",
+            "Alias": "地区编号",
+            "Type": "System.String"
+          },
+          "89": {
+            "Name": "CSBXTTXX_F_SQZJE",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_SQZJE",
+            "Alias": "申请总金额",
+            "Type": "System.Int32"
+          },
+          "90": {
+            "Name": "CSBXTTXX_F_FGLX",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_FGLX",
+            "Alias": "分割类型",
+            "Type": "System.String"
+          },
+          "91": {
+            "Name": "ACXJLL_F_XJBH",
+            "Index": -1,
+            "NameInSource": "ACXJLL_F_XJBH",
+            "Alias": "现金流量",
+            "Type": "System.String"
+          },
+          "92": {
+            "Name": "CSBXTTXX_F_FKJHXM",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_FKJHXM",
+            "Alias": "付款计划项目",
+            "Type": "System.String"
+          },
+          "93": {
+            "Name": "CSSAPORDER_F_ORDER",
+            "Index": -1,
+            "NameInSource": "CSSAPORDER_F_ORDER",
+            "Alias": "自定义选项",
+            "Type": "System.String"
+          },
+          "94": {
+            "Name": "CSBXTTXX_F_ZJJHZF",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_ZJJHZF",
+            "Alias": "计划支付方式",
+            "Type": "System.String"
+          },
+          "95": {
+            "Name": "CSZZJG_F_FKZZJG",
+            "Index": -1,
+            "NameInSource": "CSZZJG_F_FKZZJG",
+            "Alias": "实际支付单位",
+            "Type": "System.String"
+          },
+          "96": {
+            "Name": "CSBXTTXX_F_FKMDMGS",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_FKMDMGS",
+            "Alias": "实际支付单位mdm",
+            "Type": "System.String"
+          },
+          "97": {
+            "Name": "CSBXTTXX_F_FKZJDW",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_FKZJDW",
+            "Alias": "实际支付资金单位",
+            "Type": "System.String"
+          },
+          "98": {
+            "Name": "CSBXTTXX_F_PZCS",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_PZCS",
+            "Alias": "凭证次数",
+            "Type": "System.String"
+          },
+          "99": {
+            "Name": "CSBXTTXX_F_SKTYPE",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_SKTYPE",
+            "Alias": "对公对私",
+            "Type": "System.String"
+          },
+          "100": {
+            "Name": "CSBXTTXX_F_ZCZL",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_ZCZL",
+            "Alias": "资产种类",
+            "Type": "System.String"
+          },
+          "101": {
+            "Name": "CSBXTTXX_F_FTZJE",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_FTZJE",
+            "Alias": "分摊总金额",
+            "Type": "System.Int32"
+          },
+          "102": {
+            "Name": "CSBXTTXX_F_JKLXBH",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_JKLXBH",
+            "Alias": "借款类型编号",
+            "Type": "System.String"
+          },
+          "103": {
+            "Name": "CSBXTTXX_F_SFZFDBZ",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_SFZFDBZ",
+            "Alias": "是否支付多币种",
+            "Type": "System.String"
+          },
+          "104": {
+            "Name": "CSBXTTXX_F_ZFBZ",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_ZFBZ",
+            "Alias": "支付币种",
+            "Type": "System.String"
+          },
+          "105": {
+            "Name": "CSBXTTXX_F_FGFS",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_FGFS",
+            "Alias": "分割方式",
+            "Type": "System.String"
+          },
+          "106": {
+            "Name": "CSBXTTXX_F_CDDJBH",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_CDDJBH",
+            "Alias": "承担单据编号",
+            "Type": "System.String"
+          },
+          "107": {
+            "Name": "CSBXTTXX_F_CDFLBH",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_CDFLBH",
+            "Alias": "承担分录编号",
+            "Type": "System.String"
+          },
+          "108": {
+            "Name": "CSBXTTXX_FGBUKRS",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_FGBUKRS",
+            "Alias": "分割公司代码",
+            "Type": "System.String"
+          },
+          "109": {
+            "Name": "CSBXTTXX_FGPRCTR",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_FGPRCTR",
+            "Alias": "分割利润中心",
+            "Type": "System.String"
+          },
+          "110": {
+            "Name": "CSBXTTXX_F_FWML",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_FWML",
+            "Alias": "服务目录",
+            "Type": "System.String"
+          },
+          "111": {
+            "Name": "CSJSMSZD_F_JSMS",
+            "Index": -1,
+            "NameInSource": "CSJSMSZD_F_JSMS",
+            "Alias": "计税模式",
+            "Type": "System.String"
+          },
+          "112": {
+            "Name": "CSBXTTXX_F_SQZJDW",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_SQZJDW",
+            "Alias": "申请资金单位",
+            "Type": "System.String"
+          },
+          "113": {
+            "Name": "CSBXTTXX_PD_OP_ID",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_PD_OP_ID",
+            "Alias": "已处理流程OP_ID",
+            "Type": "System.String"
+          },
+          "114": {
+            "Name": "CSBXTTXX_PD_FLOW_ID",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_PD_FLOW_ID",
+            "Alias": "已处理流程编号",
+            "Type": "System.String"
+          },
+          "115": {
+            "Name": "CSBXTTXX_PD_FLOW_OP_TYPE",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_PD_FLOW_OP_TYPE",
+            "Alias": "已处理流程操作类型",
+            "Type": "System.String"
+          },
+          "116": {
+            "Name": "CSBXTTXX_PD_NODE_ID",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_PD_NODE_ID",
+            "Alias": "已处理流程节点编号",
+            "Type": "System.String"
+          },
+          "117": {
+            "Name": "CSBXTTXX_F_SQZJDWMC",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_SQZJDWMC",
+            "Alias": "申请资金单位名称",
+            "Type": "System.String"
+          },
+          "118": {
+            "Name": "CSBXTTXX_F_FGYSLB",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_FGYSLB",
+            "Alias": "分割预算类别",
+            "Type": "System.String"
+          },
+          "119": {
+            "Name": "CSBXTTXX_F_FGBXSX",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_FGBXSX",
+            "Alias": "分割报销属性",
+            "Type": "System.String"
+          },
+          "120": {
+            "Name": "CSBXTTXX_F_BWBZFJE",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_BWBZFJE",
+            "Alias": "本位币支付金额",
+            "Type": "System.Int32"
+          },
+          "121": {
+            "Name": "CSBXTTXX_F_DKSJ",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_DKSJ",
+            "Alias": "代扣税金",
+            "Type": "System.Int32"
+          },
+          "122": {
+            "Name": "CSNBQSLXZD_F_NBQSLX",
+            "Index": -1,
+            "NameInSource": "CSNBQSLXZD_F_NBQSLX",
+            "Alias": "内部清算类型",
+            "Type": "System.String"
+          },
+          "123": {
+            "Name": "CSBXTTXX_CLIENT_ID",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_CLIENT_ID",
+            "Alias": "账套ID",
+            "Type": "System.String"
+          },
+          "124": {
+            "Name": "CSBXTTXX_SRC_APP",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_SRC_APP",
+            "Alias": "来源应用",
+            "Type": "System.String"
+          },
+          "125": {
+            "Name": "CSBXTTXX_F_CSQJE",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_CSQJE",
+            "Alias": "超申请金额",
+            "Type": "System.Int32"
+          },
+          "126": {
+            "Name": "CSBXTTXX_F_CSQYY",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_CSQYY",
+            "Alias": "超申请原因",
+            "Type": "System.String"
+          },
+          "127": {
+            "Name": "CSBXTTXX_F_SPGW",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_SPGW",
+            "Alias": "审批岗位",
+            "Type": "System.String"
+          },
+          "128": {
+            "Name": "CSBXTTXX_F_DYZT",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_DYZT",
+            "Alias": "打印状态",
+            "Type": "System.String"
+          },
+          "129": {
+            "Name": "CSBXTTXX_F_DYCS",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_DYCS",
+            "Alias": "打印次数",
+            "Type": "System.Int64"
+          },
+          "130": {
+            "Name": "CSBXTTXX_F_DYSJ",
+            "Index": -1,
+            "NameInSource": "CSBXTTXX_F_DYSJ",
+            "Alias": "打印时间",
+            "Type": "System.String"
+          }
+        },
+        "NameInSource": "database.CSBXTTXX"
+      },
+      "9": {
+        "Ident": "StiDataTableSource",
+        "Name": "CSBXHJFY",
+        "Alias": "费用合计",
+        "Columns": {
+          "0": {
+            "Name": "CSBXHJFY_F_GUID",
+            "Index": -1,
+            "NameInSource": "CSBXHJFY_F_GUID",
+            "Alias": "唯一标识",
+            "Type": "System.String"
+          },
+          "1": {
+            "Name": "CSBXHJFY_F_UNITID",
+            "Index": -1,
+            "NameInSource": "CSBXHJFY_F_UNITID",
+            "Alias": "账套编号",
+            "Type": "System.String"
+          },
+          "2": {
+            "Name": "CSBXHJFY_F_ZZJG",
+            "Index": -1,
+            "NameInSource": "CSBXHJFY_F_ZZJG",
+            "Alias": "组织机构",
+            "Type": "System.String"
+          },
+          "3": {
+            "Name": "CSBXHJFY_F_BKBH",
+            "Index": -1,
+            "NameInSource": "CSBXHJFY_F_BKBH",
+            "Alias": "板块编号",
+            "Type": "System.String"
+          },
+          "4": {
+            "Name": "CSBXHJFY_F_BMBH",
+            "Index": -1,
+            "NameInSource": "CSBXHJFY_F_BMBH",
+            "Alias": "部门编号",
+            "Type": "System.String"
+          },
+          "5": {
+            "Name": "CSBXHJFY_F_XMBH",
+            "Index": -1,
+            "NameInSource": "CSBXHJFY_F_XMBH",
+            "Alias": "项目编号",
+            "Type": "System.String"
+          },
+          "6": {
+            "Name": "CSBXHJFY_F_DATE",
+            "Index": -1,
+            "NameInSource": "CSBXHJFY_F_DATE",
+            "Alias": "制单日期",
+            "Type": "System.String"
+          },
+          "7": {
+            "Name": "CSBXHJFY_F_YWLX",
+            "Index": -1,
+            "NameInSource": "CSBXHJFY_F_YWLX",
+            "Alias": "业务类型",
+            "Type": "System.String"
+          },
+          "8": {
+            "Name": "CSBXHJFY_F_DJLX",
+            "Index": -1,
+            "NameInSource": "CSBXHJFY_F_DJLX",
+            "Alias": "单据类型",
+            "Type": "System.String"
+          },
+          "9": {
+            "Name": "CSBXHJFY_F_DJBH",
+            "Index": -1,
+            "NameInSource": "CSBXHJFY_F_DJBH",
+            "Alias": "单据编号",
+            "Type": "System.String"
+          },
+          "10": {
+            "Name": "CSBXHJFY_F_FLBH",
+            "Index": -1,
+            "NameInSource": "CSBXHJFY_F_FLBH",
+            "Alias": "分录编号",
+            "Type": "System.String"
+          },
+          "11": {
+            "Name": "CSZGZD_F_ZGBH",
+            "Index": -1,
+            "NameInSource": "CSZGZD_F_ZGBH",
+            "Alias": "出差人",
+            "Type": "System.String"
+          },
+          "12": {
+            "Name": "CSBMZD_F_YWBMBH",
+            "Index": -1,
+            "NameInSource": "CSBMZD_F_YWBMBH",
+            "Alias": "出差人部门",
+            "Type": "System.String"
+          },
+          "13": {
+            "Name": "CSBXHJFY_F_YWXMBH",
+            "Index": -1,
+            "NameInSource": "CSBXHJFY_F_YWXMBH",
+            "Alias": "出差人项目",
+            "Type": "System.String"
+          },
+          "14": {
+            "Name": "CSBXHJFY_F_KKJE",
+            "Index": -1,
+            "NameInSource": "CSBXHJFY_F_KKJE",
+            "Alias": "超标扣款金额",
+            "Type": "System.Int32"
+          },
+          "15": {
+            "Name": "CSBXHJFY_F_HKJE",
+            "Index": -1,
+            "NameInSource": "CSBXHJFY_F_HKJE",
+            "Alias": "借款冲抵金额",
+            "Type": "System.Int32"
+          },
+          "16": {
+            "Name": "CSBXHJFY_F_CRDATE",
+            "Index": -1,
+            "NameInSource": "CSBXHJFY_F_CRDATE",
+            "Alias": "创建日期",
+            "Type": "System.DateTime"
+          },
+          "17": {
+            "Name": "CSBXHJFY_F_CHDATE",
+            "Index": -1,
+            "NameInSource": "CSBXHJFY_F_CHDATE",
+            "Alias": "修改日期",
+            "Type": "System.DateTime"
+          },
+          "18": {
+            "Name": "CSBXHJFY_F_NOTE",
+            "Index": -1,
+            "NameInSource": "CSBXHJFY_F_NOTE",
+            "Alias": "备注",
+            "Type": "System.String"
+          },
+          "19": {
+            "Name": "CSBXHJFY_F_JE",
+            "Index": -1,
+            "NameInSource": "CSBXHJFY_F_JE",
+            "Alias": "实际支付金额",
+            "Type": "System.Int32"
+          },
+          "20": {
+            "Name": "CSBXHJFY_F_ZFJE",
+            "Index": -1,
+            "NameInSource": "CSBXHJFY_F_ZFJE",
+            "Alias": "实际支付金额",
+            "Type": "System.Int32"
+          },
+          "21": {
+            "Name": "CSBXHJFY_F_JTFJE",
+            "Index": -1,
+            "NameInSource": "CSBXHJFY_F_JTFJE",
+            "Alias": "交通费金额",
+            "Type": "System.Int32"
+          },
+          "22": {
+            "Name": "CSBXHJFY_F_ZSFJE",
+            "Index": -1,
+            "NameInSource": "CSBXHJFY_F_ZSFJE",
+            "Alias": "住宿费",
+            "Type": "System.Int32"
+          },
+          "23": {
+            "Name": "CSBXHJFY_F_BZFJE",
+            "Index": -1,
+            "NameInSource": "CSBXHJFY_F_BZFJE",
+            "Alias": "补助费",
+            "Type": "System.Int32"
+          },
+          "24": {
+            "Name": "CSBXHJFY_F_QTFJE",
+            "Index": -1,
+            "NameInSource": "CSBXHJFY_F_QTFJE",
+            "Alias": "其他费用",
+            "Type": "System.Int32"
+          },
+          "25": {
+            "Name": "CSBXHJFY_F_HJJE",
+            "Index": -1,
+            "NameInSource": "CSBXHJFY_F_HJJE",
+            "Alias": "核减金额",
+            "Type": "System.Int32"
+          },
+          "26": {
+            "Name": "CSBXHJFY_F_DKSJ",
+            "Index": -1,
+            "NameInSource": "CSBXHJFY_F_DKSJ",
+            "Alias": "代扣税金",
+            "Type": "System.Int32"
+          }
+        },
+        "NameInSource": "database.CSBXHJFY"
+      },
+      "10": {
+        "Ident": "StiDataTableSource",
+        "Name": "CSBXBZFY",
+        "Alias": "补助费用",
+        "Columns": {
+          "0": {
+            "Name": "CSBXBZFY_F_GUID",
+            "Index": -1,
+            "NameInSource": "CSBXBZFY_F_GUID",
+            "Alias": "唯一标识",
+            "Type": "System.String"
+          },
+          "1": {
+            "Name": "CSBXBZFY_F_UNITID",
+            "Index": -1,
+            "NameInSource": "CSBXBZFY_F_UNITID",
+            "Alias": "账套编号",
+            "Type": "System.String"
+          },
+          "2": {
+            "Name": "CSBXBZFY_F_ZZJG",
+            "Index": -1,
+            "NameInSource": "CSBXBZFY_F_ZZJG",
+            "Alias": "组织机构",
+            "Type": "System.String"
+          },
+          "3": {
+            "Name": "CSBXBZFY_F_BKBH",
+            "Index": -1,
+            "NameInSource": "CSBXBZFY_F_BKBH",
+            "Alias": "板块编号",
+            "Type": "System.String"
+          },
+          "4": {
+            "Name": "CSBXBZFY_F_BMBH",
+            "Index": -1,
+            "NameInSource": "CSBXBZFY_F_BMBH",
+            "Alias": "部门编号",
+            "Type": "System.String"
+          },
+          "5": {
+            "Name": "CSBXBZFY_F_XMBH",
+            "Index": -1,
+            "NameInSource": "CSBXBZFY_F_XMBH",
+            "Alias": "项目编号",
+            "Type": "System.String"
+          },
+          "6": {
+            "Name": "CSBXBZFY_F_DATE",
+            "Index": -1,
+            "NameInSource": "CSBXBZFY_F_DATE",
+            "Alias": "制单日期",
+            "Type": "System.String"
+          },
+          "7": {
+            "Name": "CSBXBZFY_F_YWLX",
+            "Index": -1,
+            "NameInSource": "CSBXBZFY_F_YWLX",
+            "Alias": "业务类型",
+            "Type": "System.String"
+          },
+          "8": {
+            "Name": "CSBXBZFY_F_DJLX",
+            "Index": -1,
+            "NameInSource": "CSBXBZFY_F_DJLX",
+            "Alias": "单据类型",
+            "Type": "System.String"
+          },
+          "9": {
+            "Name": "CSBXBZFY_F_DJBH",
+            "Index": -1,
+            "NameInSource": "CSBXBZFY_F_DJBH",
+            "Alias": "单据编号",
+            "Type": "System.String"
+          },
+          "10": {
+            "Name": "CSBXBZFY_F_FLBH",
+            "Index": -1,
+            "NameInSource": "CSBXBZFY_F_FLBH",
+            "Alias": "分录编号",
+            "Type": "System.String"
+          },
+          "11": {
+            "Name": "CSZGZD_F_ZGBH",
+            "Index": -1,
+            "NameInSource": "CSZGZD_F_ZGBH",
+            "Alias": "出差人",
+            "Type": "System.String"
+          },
+          "12": {
+            "Name": "CSBMZD_F_YWBMBH",
+            "Index": -1,
+            "NameInSource": "CSBMZD_F_YWBMBH",
+            "Alias": "出差人部门",
+            "Type": "System.String"
+          },
+          "13": {
+            "Name": "CSBXBZFY_F_YWXMBH",
+            "Index": -1,
+            "NameInSource": "CSBXBZFY_F_YWXMBH",
+            "Alias": "出差人项目",
+            "Type": "System.String"
+          },
+          "14": {
+            "Name": "CSBXBZFY_F_YWZZJG",
+            "Index": -1,
+            "NameInSource": "CSBXBZFY_F_YWZZJG",
+            "Alias": "出差人机构",
+            "Type": "System.String"
+          },
+          "15": {
+            "Name": "CSBXBZFY_F_BZBZ",
+            "Index": -1,
+            "NameInSource": "CSBXBZFY_F_BZBZ",
+            "Alias": "补助标准",
+            "Type": "System.Int32"
+          },
+          "16": {
+            "Name": "CSBXBZFY_F_BZTS",
+            "Index": -1,
+            "NameInSource": "CSBXBZFY_F_BZTS",
+            "Alias": "补助天数",
+            "Type": "System.Int32"
+          },
+          "17": {
+            "Name": "CSBXBZFY_F_BZJE",
+            "Index": -1,
+            "NameInSource": "CSBXBZFY_F_BZJE",
+            "Alias": "实际补助金额",
+            "Type": "System.Int32"
+          },
+          "18": {
+            "Name": "CSBXBZFY_F_WCJE",
+            "Index": -1,
+            "NameInSource": "CSBXBZFY_F_WCJE",
+            "Alias": "误餐金额",
+            "Type": "System.Int32"
+          },
+          "19": {
+            "Name": "CSBXBZFY_F_CRDATE",
+            "Index": -1,
+            "NameInSource": "CSBXBZFY_F_CRDATE",
+            "Alias": "创建日期",
+            "Type": "System.DateTime"
+          },
+          "20": {
+            "Name": "CSBXBZFY_F_CHDATE",
+            "Index": -1,
+            "NameInSource": "CSBXBZFY_F_CHDATE",
+            "Alias": "修改日期",
+            "Type": "System.DateTime"
+          },
+          "21": {
+            "Name": "CSBXBZFY_F_NOTE",
+            "Index": -1,
+            "NameInSource": "CSBXBZFY_F_NOTE",
+            "Alias": "备注",
+            "Type": "System.String"
+          },
+          "22": {
+            "Name": "CSBXBZFY_F_JE",
+            "Index": -1,
+            "NameInSource": "CSBXBZFY_F_JE",
+            "Alias": "金额",
+            "Type": "System.Int32"
+          },
+          "23": {
+            "Name": "CSBXBZFY_F_BZSX",
+            "Index": -1,
+            "NameInSource": "CSBXBZFY_F_BZSX",
+            "Alias": "补助上线",
+            "Type": "System.Int32"
+          },
+          "24": {
+            "Name": "CSBXBZFY_F_SFSQDC",
+            "Index": -1,
+            "NameInSource": "CSBXBZFY_F_SFSQDC",
+            "Alias": "F_SFSQDC",
+            "Type": "System.String"
+          },
+          "25": {
+            "Name": "CSBXBZFY_F_SJTS",
+            "Index": -1,
+            "NameInSource": "CSBXBZFY_F_SJTS",
+            "Alias": "实际出差天数",
+            "Type": "System.Int32"
+          },
+          "26": {
+            "Name": "CSBXBZFY_F_SJJE",
+            "Index": -1,
+            "NameInSource": "CSBXBZFY_F_SJJE",
+            "Alias": "合计补助金额",
+            "Type": "System.Int32"
+          },
+          "27": {
+            "Name": "CSBXBZFY_F_HJJE",
+            "Index": -1,
+            "NameInSource": "CSBXBZFY_F_HJJE",
+            "Alias": "核减金额",
+            "Type": "System.Int32"
+          },
+          "28": {
+            "Name": "CSBXQYXZZD_F_CCDQ",
+            "Index": -1,
+            "NameInSource": "CSBXQYXZZD_F_CCDQ",
+            "Alias": "出差地区",
+            "Type": "System.String"
+          },
+          "29": {
+            "Name": "CSBZZD_F_BZ",
+            "Index": -1,
+            "NameInSource": "CSBZZD_F_BZ",
+            "Alias": "票面币种",
+            "Type": "System.String"
+          },
+          "30": {
+            "Name": "CSBXBZFY_F_HL",
+            "Index": -1,
+            "NameInSource": "CSBXBZFY_F_HL",
+            "Alias": "汇率",
+            "Type": "System.Int32"
+          },
+          "31": {
+            "Name": "CSBXBZFY_F_BXJB",
+            "Index": -1,
+            "NameInSource": "CSBXBZFY_F_BXJB",
+            "Alias": "报销级别",
+            "Type": "System.String"
+          }
+        },
+        "NameInSource": "database.CSBXBZFY"
+      },
+      "11": {
+        "Ident": "StiDataTableSource",
+        "Name": "CSTYFKZH",
+        "Alias": "资金系统付款结果信息",
+        "Columns": {
+          "0": {
+            "Name": "CSTYFKZH_F_GUID",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_GUID",
+            "Alias": "唯一标识",
+            "Type": "System.String"
+          },
+          "1": {
+            "Name": "CSTYFKZH_F_UNITID",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_UNITID",
+            "Alias": "账套编号",
+            "Type": "System.String"
+          },
+          "2": {
+            "Name": "CSZZJG_F_ZZJG",
+            "Index": -1,
+            "NameInSource": "CSZZJG_F_ZZJG",
+            "Alias": "组织机构",
+            "Type": "System.String"
+          },
+          "3": {
+            "Name": "CSTYFKZH_F_MDMGSBM",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_MDMGSBM",
+            "Alias": "MDM公司编码",
+            "Type": "System.String"
+          },
+          "4": {
+            "Name": "CSBMZD_F_BMBH",
+            "Index": -1,
+            "NameInSource": "CSBMZD_F_BMBH",
+            "Alias": "部门编号",
+            "Type": "System.String"
+          },
+          "5": {
+            "Name": "CSXMZD_F_XMBH",
+            "Index": -1,
+            "NameInSource": "CSXMZD_F_XMBH",
+            "Alias": "项目编号",
+            "Type": "System.String"
+          },
+          "6": {
+            "Name": "CSTYFKZH_F_XMMC",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_XMMC",
+            "Alias": "项目名称",
+            "Type": "System.String"
+          },
+          "7": {
+            "Name": "CSTYFKZH_F_DATE",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_DATE",
+            "Alias": "提单日期",
+            "Type": "System.String"
+          },
+          "8": {
+            "Name": "CSTYFKZH_F_YWLX",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_YWLX",
+            "Alias": "业务类型",
+            "Type": "System.String"
+          },
+          "9": {
+            "Name": "CSTYFKZH_F_DJLX",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_DJLX",
+            "Alias": "单据类型",
+            "Type": "System.String"
+          },
+          "10": {
+            "Name": "CSTYFKZH_F_DJBH",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_DJBH",
+            "Alias": "单据编号",
+            "Type": "System.String"
+          },
+          "11": {
+            "Name": "CSTYFKZH_F_FLBH",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_FLBH",
+            "Alias": "分录编号",
+            "Type": "System.String"
+          },
+          "12": {
+            "Name": "CSTYFKZH_F_JFKMBH",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_JFKMBH",
+            "Alias": "科目编号",
+            "Type": "System.String"
+          },
+          "13": {
+            "Name": "CSTYFKZH_F_DQRQ",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_DQRQ",
+            "Alias": "到期日期",
+            "Type": "System.String"
+          },
+          "14": {
+            "Name": "CSTYFKZH_F_HTBH",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_HTBH",
+            "Alias": "合同编号",
+            "Type": "System.String"
+          },
+          "15": {
+            "Name": "CSTYFKZH_F_HTMC",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_HTMC",
+            "Alias": "合同名称",
+            "Type": "System.String"
+          },
+          "16": {
+            "Name": "CSTYFKZH_F_SQZJDW",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_SQZJDW",
+            "Alias": "申请资金单位(资金系统)",
+            "Type": "System.String"
+          },
+          "17": {
+            "Name": "CSTYFKZH_F_SQZJDWMC",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_SQZJDWMC",
+            "Alias": "申请资金单位名称(资金系统)",
+            "Type": "System.String"
+          },
+          "18": {
+            "Name": "CSTYFKZH_F_SKTYPE",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_SKTYPE",
+            "Alias": "对公对私",
+            "Type": "System.String"
+          },
+          "19": {
+            "Name": "CSTYFKZH_F_FKSD",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_FKSD",
+            "Alias": "付款速度",
+            "Type": "System.String"
+          },
+          "20": {
+            "Name": "CSTYFKZH_F_ZFFS",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_ZFFS",
+            "Alias": "实际支付方式",
+            "Type": "System.String"
+          },
+          "21": {
+            "Name": "CSTYFKZH_F_ZFFSMC",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_ZFFSMC",
+            "Alias": "实际支付方式名称",
+            "Type": "System.String"
+          },
+          "22": {
+            "Name": "CSTYFKZH_F_ZFBZ",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_ZFBZ",
+            "Alias": "支付币种",
+            "Type": "System.String"
+          },
+          "23": {
+            "Name": "CSTYFKZH_F_ZFHL",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_ZFHL",
+            "Alias": "支付汇率",
+            "Type": "System.Int32"
+          },
+          "24": {
+            "Name": "CSTYFKZH_F_FKZJDW",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_FKZJDW",
+            "Alias": "实际付款资金单位编号(资金系统)",
+            "Type": "System.String"
+          },
+          "25": {
+            "Name": "CSTYFKZH_F_FKZJDWMC",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_FKZJDWMC",
+            "Alias": "实际支付资金单位名称",
+            "Type": "System.String"
+          },
+          "26": {
+            "Name": "CSTYFKZH_F_FKZH",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_FKZH",
+            "Alias": "付款账号",
+            "Type": "System.String"
+          },
+          "27": {
+            "Name": "CSTYFKZH_F_FKZHMC",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_FKZHMC",
+            "Alias": "默认支付账户名称",
+            "Type": "System.String"
+          },
+          "28": {
+            "Name": "CSTYFKZH_F_FKKHJG",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_FKKHJG",
+            "Alias": "付款账号开户机构",
+            "Type": "System.String"
+          },
+          "29": {
+            "Name": "CSTYFKZH_F_FKKHJGMC",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_FKKHJGMC",
+            "Alias": "付款账号开户机构名称",
+            "Type": "System.String"
+          },
+          "30": {
+            "Name": "CSTYFKZH_F_FKLHH",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_FKLHH",
+            "Alias": "付款账号联行号",
+            "Type": "System.String"
+          },
+          "31": {
+            "Name": "CSTYFKZH_F_FKJHXM",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_FKJHXM",
+            "Alias": "付款计划项目",
+            "Type": "System.String"
+          },
+          "32": {
+            "Name": "CSTYFKZH_F_XJBH",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_XJBH",
+            "Alias": "现金流量",
+            "Type": "System.String"
+          },
+          "33": {
+            "Name": "CSTYFKZH_F_SKDWBH",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_SKDWBH",
+            "Alias": "收款客商编号(或职工)",
+            "Type": "System.String"
+          },
+          "34": {
+            "Name": "CSTYFKZH_F_SKDWMC",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_SKDWMC",
+            "Alias": "收款客商名称(或职工)",
+            "Type": "System.String"
+          },
+          "35": {
+            "Name": "CSTYFKZH_F_SKZH",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_SKZH",
+            "Alias": "收款账户编号",
+            "Type": "System.String"
+          },
+          "36": {
+            "Name": "CSTYFKZH_F_SKZHMC",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_SKZHMC",
+            "Alias": "收款账户名称",
+            "Type": "System.String"
+          },
+          "37": {
+            "Name": "CSTYFKZH_F_SKYH",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_SKYH",
+            "Alias": "收款银行编号",
+            "Type": "System.String"
+          },
+          "38": {
+            "Name": "CSTYFKZH_F_SKYHMC",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_SKYHMC",
+            "Alias": "收款银行名称",
+            "Type": "System.String"
+          },
+          "39": {
+            "Name": "CSTYFKZH_F_SKKHHHH",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_SKKHHHH",
+            "Alias": "收款账户开户机构",
+            "Type": "System.String"
+          },
+          "40": {
+            "Name": "CSTYFKZH_F_SKKHHHHMC",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_SKKHHHHMC",
+            "Alias": "收款账户开户机构名称",
+            "Type": "System.String"
+          },
+          "41": {
+            "Name": "CSTYFKZH_F_SKLHH",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_SKLHH",
+            "Alias": "收款账户联行号",
+            "Type": "System.String"
+          },
+          "42": {
+            "Name": "CSTYFKZH_F_SKKHHSZD",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_SKKHHSZD",
+            "Alias": "开户行所在地",
+            "Type": "System.String"
+          },
+          "43": {
+            "Name": "CSTYFKZH_F_SKJE",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_SKJE",
+            "Alias": "收款金额（申请支付金额）",
+            "Type": "System.Int32"
+          },
+          "44": {
+            "Name": "CSTYFKZH_F_CRDATE",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_CRDATE",
+            "Alias": "创建日期",
+            "Type": "System.DateTime"
+          },
+          "45": {
+            "Name": "CSTYFKZH_F_CHDATE",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_CHDATE",
+            "Alias": "修改日期",
+            "Type": "System.DateTime"
+          },
+          "46": {
+            "Name": "CSTYFKZH_F_NOTE",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_NOTE",
+            "Alias": "付款事由",
+            "Type": "System.String"
+          },
+          "47": {
+            "Name": "CSTYFKZH_T_FKDID",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_T_FKDID",
+            "Alias": "资金付款单号ID",
+            "Type": "System.String"
+          },
+          "48": {
+            "Name": "CSTYFKZH_T_FKMXID",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_T_FKMXID",
+            "Alias": "实际支付明细ID",
+            "Type": "System.String"
+          },
+          "49": {
+            "Name": "CSTYFKZH_T_FKDH",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_T_FKDH",
+            "Alias": "资金付款单号",
+            "Type": "System.String"
+          },
+          "50": {
+            "Name": "CSTYFKZH_T_ZFZJDW",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_T_ZFZJDW",
+            "Alias": "资金单位编号",
+            "Type": "System.String"
+          },
+          "51": {
+            "Name": "CSTYFKZH_T_ZFZJDWMC",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_T_ZFZJDWMC",
+            "Alias": "资金单位名称",
+            "Type": "System.String"
+          },
+          "52": {
+            "Name": "CSTYFKZH_T_ZFFS",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_T_ZFFS",
+            "Alias": "实际支付方式",
+            "Type": "System.String"
+          },
+          "53": {
+            "Name": "CSTYFKZH_T_ZFFSMC",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_T_ZFFSMC",
+            "Alias": "实际支付方式名称",
+            "Type": "System.String"
+          },
+          "54": {
+            "Name": "CSTYFKZH_T_ZFBZ",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_T_ZFBZ",
+            "Alias": "实际支付币种",
+            "Type": "System.String"
+          },
+          "55": {
+            "Name": "CSTYFKZH_T_FKYHBH",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_T_FKYHBH",
+            "Alias": "付款银行(金融机构）",
+            "Type": "System.String"
+          },
+          "56": {
+            "Name": "CSTYFKZH_T_FKJGBH",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_T_FKJGBH",
+            "Alias": "付款机构编号",
+            "Type": "System.String"
+          },
+          "57": {
+            "Name": "CSTYFKZH_T_FKJGMC",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_T_FKJGMC",
+            "Alias": "付款机构名称",
+            "Type": "System.String"
+          },
+          "58": {
+            "Name": "CSTYFKZH_T_FKZH",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_T_FKZH",
+            "Alias": "付款账号",
+            "Type": "System.String"
+          },
+          "59": {
+            "Name": "CSTYFKZH_T_FKXJLL",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_T_FKXJLL",
+            "Alias": "现金流量项目",
+            "Type": "System.String"
+          },
+          "60": {
+            "Name": "CSTYFKZH_T_FKJHXM",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_T_FKJHXM",
+            "Alias": "付款计划项目",
+            "Type": "System.String"
+          },
+          "61": {
+            "Name": "CSTYFKZH_T_ZFRQ",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_T_ZFRQ",
+            "Alias": "支付日期",
+            "Type": "System.String"
+          },
+          "62": {
+            "Name": "CSTYFKZH_T_ZFSJ",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_T_ZFSJ",
+            "Alias": "支付时间",
+            "Type": "System.String"
+          },
+          "63": {
+            "Name": "CSTYFKZH_T_ZFJE",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_T_ZFJE",
+            "Alias": "实际支付金额",
+            "Type": "System.Int32"
+          },
+          "64": {
+            "Name": "CSTYFKZH_T_ZFZT",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_T_ZFZT",
+            "Alias": "支付状态",
+            "Type": "System.String"
+          },
+          "65": {
+            "Name": "CSTYFKZH_T_ZFMESS",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_T_ZFMESS",
+            "Alias": "支付返回信息",
+            "Type": "System.String"
+          },
+          "66": {
+            "Name": "CSTYFKZH_F_PZBH",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_PZBH",
+            "Alias": "凭证编号",
+            "Type": "System.String"
+          },
+          "67": {
+            "Name": "CSTYFKZH_F_KJQJ",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_KJQJ",
+            "Alias": "会计期间",
+            "Type": "System.String"
+          },
+          "68": {
+            "Name": "CSTYFKZH_F_ZRZX",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_ZRZX",
+            "Alias": "责任中心",
+            "Type": "System.String"
+          },
+          "69": {
+            "Name": "CSTYFKZH_F_SFZZ",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_SFZZ",
+            "Alias": "是否制证",
+            "Type": "System.String"
+          },
+          "70": {
+            "Name": "CSTYFKZH_F_SFDF",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_SFDF",
+            "Alias": "是否代付",
+            "Type": "System.String"
+          },
+          "71": {
+            "Name": "CSTYFKZH_F_DFPRCTR",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_DFPRCTR",
+            "Alias": "代付利润中心",
+            "Type": "System.String"
+          },
+          "72": {
+            "Name": "CSTYFKZH_F_DFBUKRS",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_DFBUKRS",
+            "Alias": "代付公司代码",
+            "Type": "System.String"
+          },
+          "73": {
+            "Name": "CSXMZD_F_DFXMBH",
+            "Index": -1,
+            "NameInSource": "CSXMZD_F_DFXMBH",
+            "Alias": "代付项目编号",
+            "Type": "System.String"
+          },
+          "74": {
+            "Name": "CSTYFKZH_F_SFNBZH",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_SFNBZH",
+            "Alias": "是否公司内账户",
+            "Type": "System.String"
+          },
+          "75": {
+            "Name": "CSTYFKZH_F_SFCFZF",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_SFCFZF",
+            "Alias": "是否拆分支付",
+            "Type": "System.String"
+          },
+          "76": {
+            "Name": "CSZZJG_F_FKZZJG",
+            "Index": -1,
+            "NameInSource": "CSZZJG_F_FKZZJG",
+            "Alias": "付款组织机构",
+            "Type": "System.String"
+          },
+          "77": {
+            "Name": "CSTYFKZH_F_FKMDMGS",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_FKMDMGS",
+            "Alias": "付款MDM公司吗",
+            "Type": "System.String"
+          },
+          "78": {
+            "Name": "CSTYFKZH_F_FKZZJGMC",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_FKZZJGMC",
+            "Alias": "付款组织机构名称",
+            "Type": "System.String"
+          },
+          "79": {
+            "Name": "CSTYFKZH_F_ZJJHJE",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_ZJJHJE",
+            "Alias": "F_ZJJHJE",
+            "Type": "System.Int32"
+          },
+          "80": {
+            "Name": "CSTYFKZH_F_DJRQ",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_DJRQ",
+            "Alias": "F_DJRQ",
+            "Type": "System.String"
+          },
+          "81": {
+            "Name": "CSTYFKZH_BUKRS",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_BUKRS",
+            "Alias": "BUKRS",
+            "Type": "System.String"
+          },
+          "82": {
+            "Name": "CSTYFKZH_PRCTR",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_PRCTR",
+            "Alias": "PRCTR",
+            "Type": "System.String"
+          },
+          "83": {
+            "Name": "CSTYFKZH_F_FKSY",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_FKSY",
+            "Alias": "F_FKSY",
+            "Type": "System.String"
+          },
+          "84": {
+            "Name": "CSTYFKZH_F_FKZY",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_FKZY",
+            "Alias": "F_FKZY",
+            "Type": "System.String"
+          },
+          "85": {
+            "Name": "CSTYFKZH_F_MENUID",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_MENUID",
+            "Alias": "F_MENUID",
+            "Type": "System.String"
+          },
+          "86": {
+            "Name": "CSTYFKZH_F_FORMID",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_FORMID",
+            "Alias": "F_FORMID",
+            "Type": "System.String"
+          },
+          "87": {
+            "Name": "CSTYFKZH_F_TITLE",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_TITLE",
+            "Alias": "F_TITLE",
+            "Type": "System.String"
+          },
+          "88": {
+            "Name": "CSTYFKZH_F_DFZT",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_DFZT",
+            "Alias": "F_DFZT",
+            "Type": "System.String"
+          },
+          "89": {
+            "Name": "CSXMZD_F_SKXMBH",
+            "Index": -1,
+            "NameInSource": "CSXMZD_F_SKXMBH",
+            "Alias": "收款项目编号",
+            "Type": "System.String"
+          },
+          "90": {
+            "Name": "CSTYFKZH_F_BBPRCTR",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_BBPRCTR",
+            "Alias": "本部利润中心",
+            "Type": "System.String"
+          },
+          "91": {
+            "Name": "CSTYFKZH_F_BBXMBH",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_BBXMBH",
+            "Alias": "本部项目编号",
+            "Type": "System.String"
+          },
+          "92": {
+            "Name": "CSTYFKZH_T_PJBH",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_T_PJBH",
+            "Alias": "票据编号",
+            "Type": "System.String"
+          },
+          "93": {
+            "Name": "CSTYFKZH_F_ZJZY",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_ZJZY",
+            "Alias": "资金状态",
+            "Type": "System.String"
+          },
+          "94": {
+            "Name": "CSTYFKZH_F_ZJRLDW",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_ZJRLDW",
+            "Alias": "实际认领单位",
+            "Type": "System.String"
+          },
+          "95": {
+            "Name": "CSTYFKZH_F_BWB",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_BWB",
+            "Alias": "结算币种",
+            "Type": "System.String"
+          },
+          "96": {
+            "Name": "CSTYFKZH_F_ZFBZJE",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_ZFBZJE",
+            "Alias": "支付币种金额",
+            "Type": "System.Int32"
+          },
+          "97": {
+            "Name": "CSTYFKZH_T_BWB",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_T_BWB",
+            "Alias": "返回结算币种",
+            "Type": "System.String"
+          },
+          "98": {
+            "Name": "CSTYFKZH_T_ZFHL",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_T_ZFHL",
+            "Alias": "返回支付汇率",
+            "Type": "System.Int32"
+          },
+          "99": {
+            "Name": "CSTYFKZH_T_ZFBZJE",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_T_ZFBZJE",
+            "Alias": "返回支付金额",
+            "Type": "System.Int32"
+          },
+          "100": {
+            "Name": "CSTYFKZH_F_ZJGUID",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_ZJGUID",
+            "Alias": "资金流水GUID",
+            "Type": "System.String"
+          },
+          "101": {
+            "Name": "CSTYFKZH_T_DQRQ",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_T_DQRQ",
+            "Alias": "票据到期日",
+            "Type": "System.String"
+          },
+          "102": {
+            "Name": "CSTYFKZH_T_QSRBH",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_T_QSRBH",
+            "Alias": "牵手人编号",
+            "Type": "System.String"
+          },
+          "103": {
+            "Name": "CSTYFKZH_T_BLBZ",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_T_BLBZ",
+            "Alias": "保理标志",
+            "Type": "System.String"
+          },
+          "104": {
+            "Name": "CSTYFKZH_T_BLSBH",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_T_BLSBH",
+            "Alias": "保理商编号",
+            "Type": "System.String"
+          },
+          "105": {
+            "Name": "CSTYFKZH_F_SFBDNH",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_SFBDNH",
+            "Alias": "是否变动内行",
+            "Type": "System.String"
+          },
+          "106": {
+            "Name": "CSTYFKZH_F_NBQSLX",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_NBQSLX",
+            "Alias": "内部清算类型",
+            "Type": "System.String"
+          },
+          "107": {
+            "Name": "CSTYFKZH_F_BWBZFJE",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_BWBZFJE",
+            "Alias": "本位币支付金额",
+            "Type": "System.Int32"
+          },
+          "108": {
+            "Name": "CSTYFKZH_F_SKRLZT",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_SKRLZT",
+            "Alias": "收款认领状态",
+            "Type": "System.String"
+          },
+          "109": {
+            "Name": "CSTYFKZH_T_PJID",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_T_PJID",
+            "Alias": "票据ID",
+            "Type": "System.String"
+          },
+          "110": {
+            "Name": "CSTYFKZH_F_NBBH",
+            "Index": -1,
+            "NameInSource": "CSTYFKZH_F_NBBH",
+            "Alias": "资金流水内部编号",
+            "Type": "System.String"
+          }
+        },
+        "NameInSource": "database.CSTYFKZH"
+      },
+      "12": {
+        "Ident": "StiDataTableSource",
+        "Name": "CSYFBQJSMX",
+        "Alias": "本期结算明细",
+        "Columns": {
+          "0": {
+            "Name": "CSYFBQJSMX_F_GUID",
+            "Index": -1,
+            "NameInSource": "CSYFBQJSMX_F_GUID",
+            "Alias": "唯一标识",
+            "Type": "System.String"
+          },
+          "1": {
+            "Name": "CSYFBQJSMX_F_UNITID",
+            "Index": -1,
+            "NameInSource": "CSYFBQJSMX_F_UNITID",
+            "Alias": "账套编号",
+            "Type": "System.String"
+          },
+          "2": {
+            "Name": "CSZZJG_F_ZZJG",
+            "Index": -1,
+            "NameInSource": "CSZZJG_F_ZZJG",
+            "Alias": "组织机构",
+            "Type": "System.String"
+          },
+          "3": {
+            "Name": "CSBMZD_F_BMBH",
+            "Index": -1,
+            "NameInSource": "CSBMZD_F_BMBH",
+            "Alias": "业务部门",
+            "Type": "System.String"
+          },
+          "4": {
+            "Name": "CSYFBQJSMX_F_XMBH",
+            "Index": -1,
+            "NameInSource": "CSYFBQJSMX_F_XMBH",
+            "Alias": "项目编号",
+            "Type": "System.String"
+          },
+          "5": {
+            "Name": "CSYFBQJSMX_F_DATE",
+            "Index": -1,
+            "NameInSource": "CSYFBQJSMX_F_DATE",
+            "Alias": "制单日期",
+            "Type": "System.String"
+          },
+          "6": {
+            "Name": "CSYFBQJSMX_F_YWLX",
+            "Index": -1,
+            "NameInSource": "CSYFBQJSMX_F_YWLX",
+            "Alias": "业务类型",
+            "Type": "System.String"
+          },
+          "7": {
+            "Name": "CSDJLX_F_DJLX",
+            "Index": -1,
+            "NameInSource": "CSDJLX_F_DJLX",
+            "Alias": "单据类型",
+            "Type": "System.String"
+          },
+          "8": {
+            "Name": "CSYFBQJSMX_F_DJBH",
+            "Index": -1,
+            "NameInSource": "CSYFBQJSMX_F_DJBH",
+            "Alias": "单据编号",
+            "Type": "System.String"
+          },
+          "9": {
+            "Name": "CSYFBQJSMX_F_FLBH",
+            "Index": -1,
+            "NameInSource": "CSYFBQJSMX_F_FLBH",
+            "Alias": "分录编号",
+            "Type": "System.String"
+          },
+          "10": {
+            "Name": "CSYFBQJSMX_F_CHDATE",
+            "Index": -1,
+            "NameInSource": "CSYFBQJSMX_F_CHDATE",
+            "Alias": "修改时间",
+            "Type": "System.DateTime"
+          },
+          "11": {
+            "Name": "CSYFBQJSMX_F_CRDATE",
+            "Index": -1,
+            "NameInSource": "CSYFBQJSMX_F_CRDATE",
+            "Alias": "创建时间",
+            "Type": "System.DateTime"
+          },
+          "12": {
+            "Name": "CSCHLBZD_F_CHLBBH",
+            "Index": -1,
+            "NameInSource": "CSCHLBZD_F_CHLBBH",
+            "Alias": "存货类别",
+            "Type": "System.String"
+          },
+          "13": {
+            "Name": "CSYFBQJSMX_F_CHLBMC",
+            "Index": -1,
+            "NameInSource": "CSYFBQJSMX_F_CHLBMC",
+            "Alias": "存货类别",
+            "Type": "System.String"
+          },
+          "14": {
+            "Name": "CSCHMXZD_F_CHMXBH",
+            "Index": -1,
+            "NameInSource": "CSCHMXZD_F_CHMXBH",
+            "Alias": "存货明细",
+            "Type": "System.String"
+          },
+          "15": {
+            "Name": "CSYFBQJSMX_F_CHMXMC",
+            "Index": -1,
+            "NameInSource": "CSYFBQJSMX_F_CHMXMC",
+            "Alias": "存货明细",
+            "Type": "System.String"
+          },
+          "16": {
+            "Name": "CSFPLXZD_F_FPZL",
+            "Index": -1,
+            "NameInSource": "CSFPLXZD_F_FPZL",
+            "Alias": "发票种类",
+            "Type": "System.String"
+          },
+          "17": {
+            "Name": "CSYFBQJSMX_F_DJ",
+            "Index": -1,
+            "NameInSource": "CSYFBQJSMX_F_DJ",
+            "Alias": "单价(含税)",
+            "Type": "System.Int32"
+          },
+          "18": {
+            "Name": "CSYFBQJSMX_F_NUM",
+            "Index": -1,
+            "NameInSource": "CSYFBQJSMX_F_NUM",
+            "Alias": "数量",
+            "Type": "System.Int32"
+          },
+          "19": {
+            "Name": "CSYFBQJSMX_F_DHZZ",
+            "Index": -1,
+            "NameInSource": "CSYFBQJSMX_F_DHZZ",
+            "Alias": "到货总值",
+            "Type": "System.Int32"
+          },
+          "20": {
+            "Name": "CSYFBQJSMX_F_QTTZ",
+            "Index": -1,
+            "NameInSource": "CSYFBQJSMX_F_QTTZ",
+            "Alias": "其他调整",
+            "Type": "System.Int32"
+          },
+          "21": {
+            "Name": "CSYFBQJSMX_F_HJJE",
+            "Index": -1,
+            "NameInSource": "CSYFBQJSMX_F_HJJE",
+            "Alias": "合计(开票金额)",
+            "Type": "System.Int32"
+          },
+          "22": {
+            "Name": "CSSLZD_F_SL",
+            "Index": -1,
+            "NameInSource": "CSSLZD_F_SL",
+            "Alias": "增值税率",
+            "Type": "System.String"
+          },
+          "23": {
+            "Name": "CSYFBQJSMX_F_SLMC",
+            "Index": -1,
+            "NameInSource": "CSYFBQJSMX_F_SLMC",
+            "Alias": "增值税率名称",
+            "Type": "System.String"
+          },
+          "24": {
+            "Name": "CSYFBQJSMX_F_SZ",
+            "Index": -1,
+            "NameInSource": "CSYFBQJSMX_F_SZ",
+            "Alias": "税值",
+            "Type": "System.Int32"
+          },
+          "25": {
+            "Name": "CSYFBQJSMX_F_SE",
+            "Index": -1,
+            "NameInSource": "CSYFBQJSMX_F_SE",
+            "Alias": "增值税",
+            "Type": "System.Int32"
+          },
+          "26": {
+            "Name": "CSYFBQJSMX_F_CJTZ",
+            "Index": -1,
+            "NameInSource": "CSYFBQJSMX_F_CJTZ",
+            "Alias": "差价调整",
+            "Type": "System.Int32"
+          },
+          "27": {
+            "Name": "CSYFBQJSMX_F_XSZR",
+            "Index": -1,
+            "NameInSource": "CSYFBQJSMX_F_XSZR",
+            "Alias": "销售折让",
+            "Type": "System.Int32"
+          },
+          "28": {
+            "Name": "CSJLZD_F_JLDW",
+            "Index": -1,
+            "NameInSource": "CSJLZD_F_JLDW",
+            "Alias": "计量单位列",
+            "Type": "System.String"
+          },
+          "29": {
+            "Name": "CSYFBQJSMX_F_BHSJE",
+            "Index": -1,
+            "NameInSource": "CSYFBQJSMX_F_BHSJE",
+            "Alias": "不含税金额",
+            "Type": "System.Int32"
+          },
+          "30": {
+            "Name": "CSYFBQJSMX_F_JFKMBH",
+            "Index": -1,
+            "NameInSource": "CSYFBQJSMX_F_JFKMBH",
+            "Alias": "科目编号",
+            "Type": "System.String"
+          },
+          "31": {
+            "Name": "CSYFBQJSMX_F_SFJK",
+            "Index": -1,
+            "NameInSource": "CSYFBQJSMX_F_SFJK",
+            "Alias": "是否进口",
+            "Type": "System.String"
+          },
+          "32": {
+            "Name": "CSYFBQJSMX_F_JSMS",
+            "Index": -1,
+            "NameInSource": "CSYFBQJSMX_F_JSMS",
+            "Alias": "计税模式",
+            "Type": "System.String"
+          },
+          "33": {
+            "Name": "CSYFBQJSMX_F_XJBH",
+            "Index": -1,
+            "NameInSource": "CSYFBQJSMX_F_XJBH",
+            "Alias": "现金流量",
+            "Type": "System.String"
+          },
+          "34": {
+            "Name": "CSYFBQJSMX_F_LYPJBH",
+            "Index": -1,
+            "NameInSource": "CSYFBQJSMX_F_LYPJBH",
+            "Alias": "发票单据编号",
+            "Type": "System.String"
+          },
+          "35": {
+            "Name": "CSYFBQJSMX_F_CHMXNODE",
+            "Index": -1,
+            "NameInSource": "CSYFBQJSMX_F_CHMXNODE",
+            "Alias": "物料类别名称",
+            "Type": "System.String"
+          }
+        },
+        "NameInSource": "database.CSYFBQJSMX"
+      },
+      "13": {
+        "Ident": "StiDataTableSource",
+        "Name": "CSBXMDFY",
+        "Alias": "目的地费用",
+        "Columns": {
+          "0": {
+            "Name": "CSBXMDFY_F_GUID",
+            "Index": -1,
+            "NameInSource": "CSBXMDFY_F_GUID",
+            "Alias": "唯一标识",
+            "Type": "System.String"
+          },
+          "1": {
+            "Name": "CSBXMDFY_F_UNITID",
+            "Index": -1,
+            "NameInSource": "CSBXMDFY_F_UNITID",
+            "Alias": "账套编号",
+            "Type": "System.String"
+          },
+          "2": {
+            "Name": "CSBXMDFY_F_ZZJG",
+            "Index": -1,
+            "NameInSource": "CSBXMDFY_F_ZZJG",
+            "Alias": "组织机构",
+            "Type": "System.String"
+          },
+          "3": {
+            "Name": "CSBXMDFY_F_BKBH",
+            "Index": -1,
+            "NameInSource": "CSBXMDFY_F_BKBH",
+            "Alias": "板块编号",
+            "Type": "System.String"
+          },
+          "4": {
+            "Name": "CSBXMDFY_F_BMBH",
+            "Index": -1,
+            "NameInSource": "CSBXMDFY_F_BMBH",
+            "Alias": "部门编号",
+            "Type": "System.String"
+          },
+          "5": {
+            "Name": "CSBXMDFY_F_XMBH",
+            "Index": -1,
+            "NameInSource": "CSBXMDFY_F_XMBH",
+            "Alias": "项目编号",
+            "Type": "System.String"
+          },
+          "6": {
+            "Name": "CSBXMDFY_F_DATE",
+            "Index": -1,
+            "NameInSource": "CSBXMDFY_F_DATE",
+            "Alias": "制单日期",
+            "Type": "System.String"
+          },
+          "7": {
+            "Name": "CSBXMDFY_F_YWLX",
+            "Index": -1,
+            "NameInSource": "CSBXMDFY_F_YWLX",
+            "Alias": "业务类型",
+            "Type": "System.String"
+          },
+          "8": {
+            "Name": "CSBXMDFY_F_DJLX",
+            "Index": -1,
+            "NameInSource": "CSBXMDFY_F_DJLX",
+            "Alias": "单据类型",
+            "Type": "System.String"
+          },
+          "9": {
+            "Name": "CSBXMDFY_F_DJBH",
+            "Index": -1,
+            "NameInSource": "CSBXMDFY_F_DJBH",
+            "Alias": "单据编号",
+            "Type": "System.String"
+          },
+          "10": {
+            "Name": "CSBXMDFY_F_FLBH",
+            "Index": -1,
+            "NameInSource": "CSBXMDFY_F_FLBH",
+            "Alias": "分录编号",
+            "Type": "System.String"
+          },
+          "11": {
+            "Name": "CSZGZD_F_ZGBH",
+            "Index": -1,
+            "NameInSource": "CSZGZD_F_ZGBH",
+            "Alias": "出差人",
+            "Type": "System.String"
+          },
+          "12": {
+            "Name": "CSBXMDFY_F_YWZZJG",
+            "Index": -1,
+            "NameInSource": "CSBXMDFY_F_YWZZJG",
+            "Alias": "出差人机构",
+            "Type": "System.String"
+          },
+          "13": {
+            "Name": "CSBMZD_F_YWBMBH",
+            "Index": -1,
+            "NameInSource": "CSBMZD_F_YWBMBH",
+            "Alias": "出差人部门",
+            "Type": "System.String"
+          },
+          "14": {
+            "Name": "CSBXMDFY_F_YWXMBH",
+            "Index": -1,
+            "NameInSource": "CSBXMDFY_F_YWXMBH",
+            "Alias": "出差人项目",
+            "Type": "System.String"
+          },
+          "15": {
+            "Name": "SYS_CITY_F_DADD",
+            "Index": -1,
+            "NameInSource": "SYS_CITY_F_DADD",
+            "Alias": "城市名称",
+            "Type": "System.String"
+          },
+          "16": {
+            "Name": "CSBXMDFY_F_SNJTJE",
+            "Index": -1,
+            "NameInSource": "CSBXMDFY_F_SNJTJE",
+            "Alias": "市内交通金额",
+            "Type": "System.Int32"
+          },
+          "17": {
+            "Name": "CSBXMDFY_F_ZSFJE",
+            "Index": -1,
+            "NameInSource": "CSBXMDFY_F_ZSFJE",
+            "Alias": "住宿费(含税)",
+            "Type": "System.Int32"
+          },
+          "18": {
+            "Name": "CSFPLXZD_F_FPLX",
+            "Index": -1,
+            "NameInSource": "CSFPLXZD_F_FPLX",
+            "Alias": "发票类型",
+            "Type": "System.String"
+          },
+          "19": {
+            "Name": "CSBXMDFY_F_SL",
+            "Index": -1,
+            "NameInSource": "CSBXMDFY_F_SL",
+            "Alias": "税率",
+            "Type": "System.Int32"
+          },
+          "20": {
+            "Name": "CSBXMDFY_F_SE",
+            "Index": -1,
+            "NameInSource": "CSBXMDFY_F_SE",
+            "Alias": "税额",
+            "Type": "System.Int32"
+          },
+          "21": {
+            "Name": "CSBXMDFY_F_ZSBZ",
+            "Index": -1,
+            "NameInSource": "CSBXMDFY_F_ZSBZ",
+            "Alias": "住宿标准",
+            "Type": "System.Int32"
+          },
+          "22": {
+            "Name": "CSBXMDFY_F_SFCB",
+            "Index": -1,
+            "NameInSource": "CSBXMDFY_F_SFCB",
+            "Alias": "是否超标",
+            "Type": "System.String"
+          },
+          "23": {
+            "Name": "CSBXMDFY_F_BZ",
+            "Index": -1,
+            "NameInSource": "CSBXMDFY_F_BZ",
+            "Alias": "币种",
+            "Type": "System.String"
+          },
+          "24": {
+            "Name": "CSBXMDFY_F_HL",
+            "Index": -1,
+            "NameInSource": "CSBXMDFY_F_HL",
+            "Alias": "汇率",
+            "Type": "System.Int32"
+          },
+          "25": {
+            "Name": "CSBXMDFY_F_JYJE",
+            "Index": -1,
+            "NameInSource": "CSBXMDFY_F_JYJE",
+            "Alias": "交易币金额",
+            "Type": "System.Int32"
+          },
+          "26": {
+            "Name": "CSBXMDFY_F_CRDATE",
+            "Index": -1,
+            "NameInSource": "CSBXMDFY_F_CRDATE",
+            "Alias": "创建日期",
+            "Type": "System.DateTime"
+          },
+          "27": {
+            "Name": "CSBXMDFY_F_CHDATE",
+            "Index": -1,
+            "NameInSource": "CSBXMDFY_F_CHDATE",
+            "Alias": "修改日期",
+            "Type": "System.DateTime"
+          },
+          "28": {
+            "Name": "CSBXMDFY_F_NOTE",
+            "Index": -1,
+            "NameInSource": "CSBXMDFY_F_NOTE",
+            "Alias": "备注",
+            "Type": "System.String"
+          },
+          "29": {
+            "Name": "CSBXMDFY_F_DAYS",
+            "Index": -1,
+            "NameInSource": "CSBXMDFY_F_DAYS",
+            "Alias": "天数",
+            "Type": "System.Int32"
+          },
+          "30": {
+            "Name": "CSBXMDFY_F_SFSQDC",
+            "Index": -1,
+            "NameInSource": "CSBXMDFY_F_SFSQDC",
+            "Alias": "是否申请带出",
+            "Type": "System.String"
+          },
+          "31": {
+            "Name": "CSBXMDFY_F_HJJE",
+            "Index": -1,
+            "NameInSource": "CSBXMDFY_F_HJJE",
+            "Alias": "核减金额",
+            "Type": "System.Int32"
+          },
+          "32": {
+            "Name": "CSBXMDFY_F_JE",
+            "Index": -1,
+            "NameInSource": "CSBXMDFY_F_JE",
+            "Alias": "含税金额(本位币种）",
+            "Type": "System.Int32"
+          },
+          "33": {
+            "Name": "CSBXMDFY_F_LYPJBH",
+            "Index": -1,
+            "NameInSource": "CSBXMDFY_F_LYPJBH",
+            "Alias": "来源票据编号",
+            "Type": "System.String"
+          },
+          "34": {
+            "Name": "CSBXQYXZZD_F_CCDQ",
+            "Index": -1,
+            "NameInSource": "CSBXQYXZZD_F_CCDQ",
+            "Alias": "出差地区",
+            "Type": "System.String"
+          },
+          "35": {
+            "Name": "CSBXMDFY_F_BXJB",
+            "Index": -1,
+            "NameInSource": "CSBXMDFY_F_BXJB",
+            "Alias": "报销级别",
+            "Type": "System.String"
+          },
+          "36": {
+            "Name": "CSBXMDFY_F_ZSBBJE",
+            "Index": -1,
+            "NameInSource": "CSBXMDFY_F_ZSBBJE",
+            "Alias": "折算本币标准金额",
+            "Type": "System.Int32"
+          },
+          "37": {
+            "Name": "CSBXMDFY_F_ZSBZJE",
+            "Index": -1,
+            "NameInSource": "CSBXMDFY_F_ZSBZJE",
+            "Alias": "折算后标准币种金额",
+            "Type": "System.Int32"
+          }
+        },
+        "NameInSource": "database.CSBXMDFY"
+      },
+      "14": {
+        "Ident": "StiDataTableSource",
+        "Name": "LcDataSet",
+        "Alias": "流程信息",
+        "Columns": {
+          "0": {
+            "Name": "NODE_TAG_NAME",
+            "Index": -1,
+            "NameInSource": "NODE_TAG_NAME",
+            "Alias": "审批节点",
+            "Type": "System.String"
+          },
+          "1": {
+            "Name": "OP_PROC_NAME",
+            "Index": -1,
+            "NameInSource": "OP_PROC_NAME",
+            "Alias": "审批人",
+            "Type": "System.String"
+          },
+          "2": {
+            "Name": "OP_PROC_NOTE",
+            "Index": -1,
+            "NameInSource": "OP_PROC_NOTE",
+            "Alias": "审批意见",
+            "Type": "System.String"
+          },
+          "3": {
+            "Name": "OP_PROC_TIME",
+            "Index": -1,
+            "NameInSource": "OP_PROC_TIME",
+            "Alias": "审批时间",
+            "Type": "System.String"
+          }
+        },
+        "NameInSource": "database.LcDataSet"
+      }
+    }
+  },
+  "Pages": {
+    "0": {
+      "Ident": "StiPage",
+      "Name": "Page1",
+      "Guid": "9651946b328239fd341d8db93e3d9f8c",
+      "Interaction": {
+        "Ident": "StiInteraction"
+      },
+      "Border": ";;2;;;;;solid:Black",
+      "Brush": "solid:",
+      "Components": {
+        "0": {
+          "Ident": "StiTable",
+          "Name": "Table9",
+          "ClientRectangle": "0,0.4,27.7,2.4",
+          "Interaction": {
+            "Ident": "StiBandInteraction"
+          },
+          "Border": ";;;;;;;solid:Black",
+          "Brush": "solid:",
+          "Components": {
+            "0": {
+              "Ident": "StiTableCell",
+              "Name": "Table9_Cell1",
+              "ClientRectangle": "0,0,2.77,0.8",
+              "Restrictions": "AllowMove, AllowSelect, AllowChange",
+              "Enabled": false,
+              "Interaction": {
+                "Ident": "StiInteraction"
+              },
+              "Border": "All;105,105,105;;;;;;solid:105,105,105",
+              "Brush": "solid:",
+              "TextBrush": "solid:Black",
+              "ParentJoin": 29,
+              "ID": 0
+            },
+            "1": {
+              "Ident": "StiTableCell",
+              "Name": "Table9_Cell2",
+              "ClientRectangle": "2.77,0,2.77,0.8",
+              "Restrictions": "AllowMove, AllowSelect, AllowChange",
+              "Enabled": false,
+              "Interaction": {
+                "Ident": "StiInteraction"
+              },
+              "Border": "All;105,105,105;;;;;;solid:105,105,105",
+              "Brush": "solid:",
+              "TextBrush": "solid:Black",
+              "ParentJoin": 29,
+              "ID": 1
+            },
+            "2": {
+              "Ident": "StiTableCell",
+              "Name": "Table9_Cell3",
+              "ClientRectangle": "5.54,0,2.77,0.8",
+              "Restrictions": "AllowMove, AllowSelect, AllowChange",
+              "Enabled": false,
+              "Interaction": {
+                "Ident": "StiInteraction"
+              },
+              "Border": "All;105,105,105;;;;;;solid:105,105,105",
+              "Brush": "solid:",
+              "TextBrush": "solid:Black",
+              "ParentJoin": 29,
+              "ID": 2
+            },
+            "3": {
+              "Ident": "StiTableCell",
+              "Name": "Table9_Cell4",
+              "ClientRectangle": "8.31,0,2.77,0.8",
+              "Restrictions": "AllowMove, AllowSelect, AllowChange",
+              "Enabled": false,
+              "Interaction": {
+                "Ident": "StiInteraction"
+              },
+              "Border": "All;105,105,105;;;;;;solid:105,105,105",
+              "Brush": "solid:",
+              "TextBrush": "solid:Black",
+              "ParentJoin": 29,
+              "ID": 3
+            },
+            "4": {
+              "Ident": "StiTableCell",
+              "Name": "Table9_Cell5",
+              "ClientRectangle": "11.08,0,2.77,0.8",
+              "Restrictions": "AllowMove, AllowSelect, AllowChange",
+              "Enabled": false,
+              "Interaction": {
+                "Ident": "StiInteraction"
+              },
+              "Border": "All;105,105,105;;;;;;solid:105,105,105",
+              "Brush": "solid:",
+              "TextBrush": "solid:Black",
+              "ParentJoin": 29,
+              "ID": 4
+            },
+            "5": {
+              "Ident": "StiTableCell",
+              "Name": "Table9_Cell6",
+              "ClientRectangle": "13.85,0,2.77,0.8",
+              "Restrictions": "AllowMove, AllowSelect, AllowChange",
+              "Enabled": false,
+              "Interaction": {
+                "Ident": "StiInteraction"
+              },
+              "Border": "All;105,105,105;;;;;;solid:105,105,105",
+              "Brush": "solid:",
+              "TextBrush": "solid:Black",
+              "ParentJoin": 29,
+              "ID": 25
+            },
+            "6": {
+              "Ident": "StiTableCell",
+              "Name": "Table9_Cell7",
+              "ClientRectangle": "16.62,0,2.77,0.8",
+              "Restrictions": "AllowMove, AllowSelect, AllowChange",
+              "Enabled": false,
+              "Interaction": {
+                "Ident": "StiInteraction"
+              },
+              "Border": "All;105,105,105;;;;;;solid:105,105,105",
+              "Brush": "solid:",
+              "TextBrush": "solid:Black",
+              "ParentJoin": 29,
+              "ID": 26
+            },
+            "7": {
+              "Ident": "StiTableCell",
+              "Name": "Table9_Cell8",
+              "ClientRectangle": "19.39,0,2.77,0.8",
+              "Restrictions": "AllowMove, AllowSelect, AllowChange",
+              "Enabled": false,
+              "Interaction": {
+                "Ident": "StiInteraction"
+              },
+              "Border": "All;105,105,105;;;;;;solid:105,105,105",
+              "Brush": "solid:",
+              "TextBrush": "solid:Black",
+              "ParentJoin": 29,
+              "ID": 27
+            },
+            "8": {
+              "Ident": "StiTableCell",
+              "Name": "Table9_Cell9",
+              "ClientRectangle": "22.16,0,2.77,0.8",
+              "Restrictions": "AllowMove, AllowSelect, AllowChange",
+              "Enabled": false,
+              "Interaction": {
+                "Ident": "StiInteraction"
+              },
+              "Border": "All;105,105,105;;;;;;solid:105,105,105",
+              "Brush": "solid:",
+              "TextBrush": "solid:Black",
+              "ParentJoin": 29,
+              "ID": 28
+            },
+            "9": {
+              "Ident": "StiTableCell",
+              "Name": "Table9_Cell10",
+              "Guid": "6c5f2fd7057e60d89dc13af18dc02f93",
+              "ClientRectangle": "0,0,27.7,0.8",
+              "Restrictions": "AllowMove, AllowSelect, AllowChange",
+              "Interaction": {
+                "Ident": "StiInteraction"
+              },
+              "Text": {
+                "Value": "Total:"
+              },
+              "VertAlignment": "Center",
+              "Font": ";10;;",
+              "Border": "All;105,105,105;;;;;;solid:105,105,105",
+              "Brush": "solid:",
+              "TextBrush": "solid:Black",
+              "Type": "Expression",
+              "ParentJoin": 29,
+              "Join": true,
+              "ID": 29,
+              "JoinWidth": 10,
+              "JoinHeight": 1
+            },
+            "10": {
+              "Ident": "StiTableCell",
+              "Name": "Table9_Cell11",
+              "ClientRectangle": "0,0.8,2.77,0.8",
+              "Restrictions": "AllowMove, AllowSelect, AllowChange",
+              "Enabled": false,
+              "Interaction": {
+                "Ident": "StiInteraction"
+              },
+              "Border": "All;105,105,105;;;;;;solid:105,105,105",
+              "Brush": "solid:",
+              "TextBrush": "solid:Black",
+              "ParentJoin": 10,
+              "ID": 5
+            },
+            "11": {
+              "Ident": "StiTableCell",
+              "Name": "Table9_Cell12",
+              "ClientRectangle": "2.77,0.8,2.77,0.8",
+              "Restrictions": "AllowMove, AllowSelect, AllowChange",
+              "Enabled": false,
+              "Interaction": {
+                "Ident": "StiInteraction"
+              },
+              "Border": "All;105,105,105;;;;;;solid:105,105,105",
+              "Brush": "solid:",
+              "TextBrush": "solid:Black",
+              "ParentJoin": 11,
+              "ID": 6
+            },
+            "12": {
+              "Ident": "StiTableCell",
+              "Name": "Table9_Cell13",
+              "ClientRectangle": "5.54,0.8,2.77,0.8",
+              "Restrictions": "AllowMove, AllowSelect, AllowChange",
+              "Enabled": false,
+              "Interaction": {
+                "Ident": "StiInteraction"
+              },
+              "Border": "All;105,105,105;;;;;;solid:105,105,105",
+              "Brush": "solid:",
+              "TextBrush": "solid:Black",
+              "ParentJoin": 31,
+              "ID": 7
+            },
+            "13": {
+              "Ident": "StiTableCell",
+              "Name": "Table9_Cell14",
+              "ClientRectangle": "8.31,0.8,2.77,0.8",
+              "Restrictions": "AllowMove, AllowSelect, AllowChange",
+              "Enabled": false,
+              "Interaction": {
+                "Ident": "StiInteraction"
+              },
+              "Border": "All;105,105,105;;;;;;solid:105,105,105",
+              "Brush": "solid:",
+              "TextBrush": "solid:Black",
+              "ParentJoin": 31,
+              "ID": 8
+            },
+            "14": {
+              "Ident": "StiTableCell",
+              "Name": "Table9_Cell15",
+              "ClientRectangle": "11.08,0.8,2.77,0.8",
+              "Restrictions": "AllowMove, AllowSelect, AllowChange",
+              "Enabled": false,
+              "Interaction": {
+                "Ident": "StiInteraction"
+              },
+              "Border": "All;105,105,105;;;;;;solid:105,105,105",
+              "Brush": "solid:",
+              "TextBrush": "solid:Black",
+              "ParentJoin": 31,
+              "ID": 9
+            },
+            "15": {
+              "Ident": "StiTableCell",
+              "Name": "Table9_Cell16",
+              "ClientRectangle": "13.85,0.8,2.77,0.8",
+              "Restrictions": "AllowMove, AllowSelect, AllowChange",
+              "Enabled": false,
+              "Interaction": {
+                "Ident": "StiInteraction"
+              },
+              "Border": "All;105,105,105;;;;;;solid:105,105,105",
+              "Brush": "solid:",
+              "TextBrush": "solid:Black",
+              "ParentJoin": 31,
+              "ID": 30
+            },
+            "16": {
+              "Ident": "StiTableCell",
+              "Name": "Table9_Cell17",
+              "Guid": "c122927a97980b84e49f5ee20594cade",
+              "ClientRectangle": "5.54,0.8,13.85,0.8",
+              "Restrictions": "AllowMove, AllowSelect, AllowChange",
+              "Interaction": {
+                "Ident": "StiInteraction"
+              },
+              "Text": {
+                "Value": "DETAILS"
+              },
+              "HorAlignment": "Center",
+              "VertAlignment": "Center",
+              "Font": ";10;;",
+              "Border": "All;105,105,105;;;;;;solid:105,105,105",
+              "Brush": "solid:",
+              "TextBrush": "solid:Black",
+              "Type": "Expression",
+              "ParentJoin": 31,
+              "Join": true,
+              "ID": 31,
+              "JoinWidth": 5,
+              "JoinHeight": 1
+            },
+            "17": {
+              "Ident": "StiTableCell",
+              "Name": "Table9_Cell18",
+              "ClientRectangle": "19.39,0.8,2.77,0.8",
+              "Restrictions": "AllowMove, AllowSelect, AllowChange",
+              "Enabled": false,
+              "Interaction": {
+                "Ident": "StiInteraction"
+              },
+              "Border": "All;105,105,105;;;;;;solid:105,105,105",
+              "Brush": "solid:",
+              "TextBrush": "solid:Black",
+              "ParentJoin": 37,
+              "ID": 32
+            },
+            "18": {
+              "Ident": "StiTableCell",
+              "Name": "Table9_Cell19",
+              "ClientRectangle": "22.16,0.8,2.77,0.8",
+              "Restrictions": "AllowMove, AllowSelect, AllowChange",
+              "Enabled": false,
+              "Interaction": {
+                "Ident": "StiInteraction"
+              },
+              "Border": "All;105,105,105;;;;;;solid:105,105,105",
+              "Brush": "solid:",
+              "TextBrush": "solid:Black",
+              "ParentJoin": 38,
+              "ID": 33
+            },
+            "19": {
+              "Ident": "StiTableCell",
+              "Name": "Table9_Cell20",
+              "ClientRectangle": "24.93,0.8,2.77,0.8",
+              "Restrictions": "AllowMove, AllowSelect, AllowChange",
+              "Enabled": false,
+              "Interaction": {
+                "Ident": "StiInteraction"
+              },
+              "Border": "All;105,105,105;;;;;;solid:105,105,105",
+              "Brush": "solid:",
+              "TextBrush": "solid:Black",
+              "ParentJoin": 39,
+              "ID": 34
+            },
+            "20": {
+              "Ident": "StiTableCell",
+              "Name": "Table9_Cell21",
+              "Guid": "3731417105f7e38739afa383a70b4337",
+              "ClientRectangle": "0,0.8,2.77,1.6",
+              "Restrictions": "AllowMove, AllowSelect, AllowChange",
+              "Interaction": {
+                "Ident": "StiInteraction"
+              },
+              "Text": {
+                "Value": "NAME"
+              },
+              "HorAlignment": "Center",
+              "VertAlignment": "Center",
+              "Font": ";10;;",
+              "Border": "All;105,105,105;;;;;;solid:105,105,105",
+              "Brush": "solid:",
+              "TextBrush": "solid:Black",
+              "Type": "Expression",
+              "ParentJoin": 10,
+              "Join": true,
+              "ID": 10,
+              "JoinWidth": 1,
+              "JoinHeight": 2
+            },
+            "21": {
+              "Ident": "StiTableCell",
+              "Name": "Table9_Cell22",
+              "Guid": "f1939e4859150392eb092e764ab18908",
+              "ClientRectangle": "2.77,0.8,2.77,1.6",
+              "Restrictions": "AllowMove, AllowSelect, AllowChange",
+              "Interaction": {
+                "Ident": "StiInteraction"
+              },
+              "Text": {
+                "Value": "DEPT."
+              },
+              "HorAlignment": "Center",
+              "VertAlignment": "Center",
+              "Font": ";10;;",
+              "Border": "All;105,105,105;;;;;;solid:105,105,105",
+              "Brush": "solid:",
+              "TextBrush": "solid:Black",
+              "Type": "Expression",
+              "ParentJoin": 11,
+              "Join": true,
+              "ID": 11,
+              "JoinWidth": 1,
+              "JoinHeight": 2
+            },
+            "22": {
+              "Ident": "StiTableCell",
+              "Name": "Table9_Cell23",
+              "Guid": "a4614f957f16b5aa54e75311d67ebabb",
+              "ClientRectangle": "5.54,1.6,2.77,0.8",
+              "Restrictions": "AllowMove, AllowSelect, AllowChange",
+              "Interaction": {
+                "Ident": "StiInteraction"
+              },
+              "Text": {
+                "Value": "A"
+              },
+              "HorAlignment": "Center",
+              "VertAlignment": "Center",
+              "Font": ";10;;",
+              "Border": "All;105,105,105;;;;;;solid:105,105,105",
+              "Brush": "solid:",
+              "TextBrush": "solid:Black",
+              "Type": "Expression",
+              "ID": 12
+            },
+            "23": {
+              "Ident": "StiTableCell",
+              "Name": "Table9_Cell24",
+              "Guid": "f664f4e30a77dc8f53b250e9f71a7825",
+              "ClientRectangle": "8.31,1.6,2.77,0.8",
+              "Restrictions": "AllowMove, AllowSelect, AllowChange",
+              "Interaction": {
+                "Ident": "StiInteraction"
+              },
+              "Text": {
+                "Value": "B"
+              },
+              "HorAlignment": "Center",
+              "VertAlignment": "Center",
+              "Font": ";10;;",
+              "Border": "All;105,105,105;;;;;;solid:105,105,105",
+              "Brush": "solid:",
+              "TextBrush": "solid:Black",
+              "Type": "Expression",
+              "ID": 13
+            },
+            "24": {
+              "Ident": "StiTableCell",
+              "Name": "Table9_Cell25",
+              "Guid": "fc765b46acb2fd9239a20601f70100ed",
+              "ClientRectangle": "11.08,1.6,2.77,0.8",
+              "Restrictions": "AllowMove, AllowSelect, AllowChange",
+              "Interaction": {
+                "Ident": "StiInteraction"
+              },
+              "Text": {
+                "Value": "C"
+              },
+              "HorAlignment": "Center",
+              "VertAlignment": "Center",
+              "Font": ";10;;",
+              "Border": "All;105,105,105;;;;;;solid:105,105,105",
+              "Brush": "solid:",
+              "TextBrush": "solid:Black",
+              "Type": "Expression",
+              "ID": 14
+            },
+            "25": {
+              "Ident": "StiTableCell",
+              "Name": "Table9_Cell26",
+              "Guid": "52c6e3d2cac81a91da3f4f83fa9518bc",
+              "ClientRectangle": "13.85,1.6,2.77,0.8",
+              "Restrictions": "AllowMove, AllowSelect, AllowChange",
+              "Interaction": {
+                "Ident": "StiInteraction"
+              },
+              "Text": {
+                "Value": "D"
+              },
+              "HorAlignment": "Center",
+              "VertAlignment": "Center",
+              "Font": ";10;;",
+              "Border": "All;105,105,105;;;;;;solid:105,105,105",
+              "Brush": "solid:",
+              "TextBrush": "solid:Black",
+              "Type": "Expression",
+              "ID": 35
+            },
+            "26": {
+              "Ident": "StiTableCell",
+              "Name": "Table9_Cell27",
+              "Guid": "b3f1194b212b50cc94c9f2fac5bceff9",
+              "ClientRectangle": "16.62,1.6,2.77,0.8",
+              "Restrictions": "AllowMove, AllowSelect, AllowChange",
+              "Interaction": {
+                "Ident": "StiInteraction"
+              },
+              "Text": {
+                "Value": "E"
+              },
+              "HorAlignment": "Center",
+              "VertAlignment": "Center",
+              "Font": ";10;;",
+              "Border": "All;105,105,105;;;;;;solid:105,105,105",
+              "Brush": "solid:",
+              "TextBrush": "solid:Black",
+              "Type": "Expression",
+              "ID": 36
+            },
+            "27": {
+              "Ident": "StiTableCell",
+              "Name": "Table9_Cell28",
+              "Guid": "0e2363cfa328554bfb04110b1ccc914a",
+              "ClientRectangle": "19.39,0.8,2.77,1.6",
+              "Restrictions": "AllowMove, AllowSelect, AllowChange",
+              "Interaction": {
+                "Ident": "StiInteraction"
+              },
+              "Text": {
+                "Value": "PRICE"
+              },
+              "HorAlignment": "Center",
+              "VertAlignment": "Center",
+              "Font": ";10;;",
+              "Border": "All;105,105,105;;;;;;solid:105,105,105",
+              "Brush": "solid:",
+              "TextBrush": "solid:Black",
+              "Type": "Expression",
+              "ParentJoin": 37,
+              "Join": true,
+              "ID": 37,
+              "JoinWidth": 1,
+              "JoinHeight": 2
+            },
+            "28": {
+              "Ident": "StiTableCell",
+              "Name": "Table9_Cell29",
+              "Guid": "988025dc8f49ff0a16ea2db31fd77978",
+              "ClientRectangle": "22.16,0.8,2.77,1.6",
+              "Restrictions": "AllowMove, AllowSelect, AllowChange",
+              "Interaction": {
+                "Ident": "StiInteraction"
+              },
+              "Text": {
+                "Value": "PRICE"
+              },
+              "HorAlignment": "Center",
+              "VertAlignment": "Center",
+              "Font": ";10;;",
+              "Border": "All;105,105,105;;;;;;solid:105,105,105",
+              "Brush": "solid:",
+              "TextBrush": "solid:Black",
+              "Type": "Expression",
+              "ParentJoin": 38,
+              "Join": true,
+              "ID": 38,
+              "JoinWidth": 1,
+              "JoinHeight": 2
+            },
+            "29": {
+              "Ident": "StiTableCell",
+              "Name": "Table9_Cell30",
+              "Guid": "7ecad5b234b9e66b6f595056a90284fd",
+              "ClientRectangle": "24.93,0.8,2.77,1.6",
+              "Restrictions": "AllowMove, AllowSelect, AllowChange",
+              "Interaction": {
+                "Ident": "StiInteraction"
+              },
+              "Text": {
+                "Value": "PRICE"
+              },
+              "HorAlignment": "Center",
+              "VertAlignment": "Center",
+              "Font": ";10;;",
+              "Border": "All;105,105,105;;;;;;solid:105,105,105",
+              "Brush": "solid:",
+              "TextBrush": "solid:Black",
+              "Type": "Expression",
+              "ParentJoin": 39,
+              "Join": true,
+              "ID": 39,
+              "JoinWidth": 1,
+              "JoinHeight": 2
+            }
+          },
+          "MinHeight": 0.6000000000000001,
+          "RowCount": 3,
+          "ColumnCount": 10,
+          "NumberID": 50
+        }
+      },
+      "PaperSize": "A4",
+      "Orientation": "Landscape",
+      "PageWidth": 29.7,
+      "PageHeight": 21,
+      "Watermark": {
+        "TextBrush": "solid:50,0,0,0"
+      },
+      "Margins": {
+        "Left": 1,
+        "Right": 1,
+        "Top": 1,
+        "Bottom": 1
+      }
+    }
+  }
+}
